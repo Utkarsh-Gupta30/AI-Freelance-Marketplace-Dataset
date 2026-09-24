@@ -1,0 +1,272 @@
+[
+    {
+        "client_id": 1,
+        "user_id": 3,
+        "company_name": "TechNova Solutions",
+        "industry": "Manufacturing",
+        "company_size": "Enterprise",
+        "gst_number": "27ABCDE2595F1Z3",
+        "company_website": "http://sibal.info/"
+    },
+    {
+        "client_id": 2,
+        "user_id": 7,
+        "company_name": "ByteCraft Technologies",
+        "industry": "Finance",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE0168F1Z7",
+        "company_website": "http://www.pandit.com/"
+    },
+    {
+        "client_id": 3,
+        "user_id": 11,
+        "company_name": "CodeFusion Pvt Ltd",
+        "industry": "Education",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE7974F1Z8",
+        "company_website": "http://www.desai-lalla.com/"
+    },
+    {
+        "client_id": 4,
+        "user_id": 17,
+        "company_name": "NextGen Systems",
+        "industry": "Retail",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE6506F1Z0",
+        "company_website": "http://mani.net/"
+    },
+    {
+        "client_id": 5,
+        "user_id": 20,
+        "company_name": "CloudSphere",
+        "industry": "Marketing",
+        "company_size": "Small",
+        "gst_number": "27ABCDE7849F1Z9",
+        "company_website": "http://www.ramesh.com/"
+    },
+    {
+        "client_id": 6,
+        "user_id": 23,
+        "company_name": "InnovateX",
+        "industry": "Finance",
+        "company_size": "Enterprise",
+        "gst_number": "27ABCDE8523F1Z9",
+        "company_website": "https://www.barad.com/"
+    },
+    {
+        "client_id": 7,
+        "user_id": 25,
+        "company_name": "Digital Horizon",
+        "industry": "Manufacturing",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE7872F1Z9",
+        "company_website": "http://nagar.org/"
+    },
+    {
+        "client_id": 8,
+        "user_id": 26,
+        "company_name": "VisionSoft",
+        "industry": "Finance",
+        "company_size": "Small",
+        "gst_number": "27ABCDE4958F1Z8",
+        "company_website": "https://badal-pillay.com/"
+    },
+    {
+        "client_id": 9,
+        "user_id": 32,
+        "company_name": "FutureWorks",
+        "industry": "Information Technology",
+        "company_size": "Small",
+        "gst_number": "27ABCDE1694F1Z0",
+        "company_website": "https://kari.com/"
+    },
+    {
+        "client_id": 10,
+        "user_id": 34,
+        "company_name": "DataBridge",
+        "industry": "Retail",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE8962F1Z3",
+        "company_website": "http://www.bahl.com/"
+    },
+    {
+        "client_id": 11,
+        "user_id": 35,
+        "company_name": "TechNova Solutions",
+        "industry": "E-Commerce",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE6263F1Z6",
+        "company_website": "https://www.devi.net/"
+    },
+    {
+        "client_id": 12,
+        "user_id": 37,
+        "company_name": "ByteCraft Technologies",
+        "industry": "E-Commerce",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE5786F1Z5",
+        "company_website": "http://oommen.org/"
+    },
+    {
+        "client_id": 13,
+        "user_id": 39,
+        "company_name": "CodeFusion Pvt Ltd",
+        "industry": "Logistics",
+        "company_size": "Enterprise",
+        "gst_number": "27ABCDE7334F1Z8",
+        "company_website": "https://www.mani-johal.info/"
+    },
+    {
+        "client_id": 14,
+        "user_id": 40,
+        "company_name": "NextGen Systems",
+        "industry": "Logistics",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE5758F1Z4",
+        "company_website": "https://www.raghavan.com/"
+    },
+    {
+        "client_id": 15,
+        "user_id": 41,
+        "company_name": "CloudSphere",
+        "industry": "Information Technology",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE4041F1Z5",
+        "company_website": "https://srinivas.net/"
+    },
+    {
+        "client_id": 16,
+        "user_id": 44,
+        "company_name": "InnovateX",
+        "industry": "E-Commerce",
+        "company_size": "Small",
+        "gst_number": "27ABCDE4842F1Z1",
+        "company_website": "http://www.wali.com/"
+    },
+    {
+        "client_id": 17,
+        "user_id": 46,
+        "company_name": "Digital Horizon",
+        "industry": "Real Estate",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE0165F1Z7",
+        "company_website": "http://www.dugar.info/"
+    },
+    {
+        "client_id": 18,
+        "user_id": 49,
+        "company_name": "VisionSoft",
+        "industry": "Information Technology",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE7345F1Z4",
+        "company_website": "http://www.kata.com/"
+    },
+    {
+        "client_id": 19,
+        "user_id": 51,
+        "company_name": "FutureWorks",
+        "industry": "Real Estate",
+        "company_size": "Enterprise",
+        "gst_number": "27ABCDE6206F1Z7",
+        "company_website": "http://andra.org/"
+    },
+    {
+        "client_id": 20,
+        "user_id": 57,
+        "company_name": "DataBridge",
+        "industry": "Manufacturing",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE9154F1Z7",
+        "company_website": "https://www.sidhu.com/"
+    },
+    {
+        "client_id": 21,
+        "user_id": 62,
+        "company_name": "TechNova Solutions",
+        "industry": "Retail",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE5274F1Z2",
+        "company_website": "http://hans-gill.org/"
+    },
+    {
+        "client_id": 22,
+        "user_id": 66,
+        "company_name": "ByteCraft Technologies",
+        "industry": "Retail",
+        "company_size": "Small",
+        "gst_number": "27ABCDE6685F1Z1",
+        "company_website": "https://www.dey.com/"
+    },
+    {
+        "client_id": 23,
+        "user_id": 67,
+        "company_name": "CodeFusion Pvt Ltd",
+        "industry": "E-Commerce",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE3046F1Z3",
+        "company_website": "https://mittal-apte.com/"
+    },
+    {
+        "client_id": 24,
+        "user_id": 70,
+        "company_name": "NextGen Systems",
+        "industry": "Retail",
+        "company_size": "Startup",
+        "gst_number": "27ABCDE5301F1Z7",
+        "company_website": "https://www.thakkar-mukhopadhyay.com/"
+    },
+    {
+        "client_id": 25,
+        "user_id": 72,
+        "company_name": "CloudSphere",
+        "industry": "Logistics",
+        "company_size": "Small",
+        "gst_number": "27ABCDE4593F1Z3",
+        "company_website": "http://sha.org/"
+    },
+    {
+        "client_id": 26,
+        "user_id": 74,
+        "company_name": "InnovateX",
+        "industry": "Manufacturing",
+        "company_size": "Enterprise",
+        "gst_number": "27ABCDE5687F1Z8",
+        "company_website": "http://www.bumb.net/"
+    },
+    {
+        "client_id": 27,
+        "user_id": 75,
+        "company_name": "Digital Horizon",
+        "industry": "Healthcare",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE5191F1Z0",
+        "company_website": "http://www.narang.info/"
+    },
+    {
+        "client_id": 28,
+        "user_id": 76,
+        "company_name": "VisionSoft",
+        "industry": "Real Estate",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE1397F1Z1",
+        "company_website": "https://www.deo-varghese.biz/"
+    },
+    {
+        "client_id": 29,
+        "user_id": 79,
+        "company_name": "FutureWorks",
+        "industry": "Healthcare",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE7908F1Z7",
+        "company_website": "https://www.kumar-aggarwal.com/"
+    },
+    {
+        "client_id": 30,
+        "user_id": 80,
+        "company_name": "DataBridge",
+        "industry": "Logistics",
+        "company_size": "Medium",
+        "gst_number": "27ABCDE9106F1Z5",
+        "company_website": "http://www.sodhi.com/"
+    }
+]

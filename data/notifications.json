@@ -1,0 +1,2252 @@
+[
+    {
+        "notification_id": 1,
+        "user_id": 75,
+        "title": "Pariatur deserunt.",
+        "message": "Doloremque aliquid debitis repudiandae deserunt eos aperiam ipsum.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-03-26 02:38:37"
+    },
+    {
+        "notification_id": 2,
+        "user_id": 41,
+        "title": "Adipisci quas quam.",
+        "message": "Occaecati sunt error placeat culpa aperiam temporibus labore ab fugiat.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-02-20 20:38:22"
+    },
+    {
+        "notification_id": 3,
+        "user_id": 1,
+        "title": "Placeat tempora autem.",
+        "message": "Distinctio corrupti autem dolorem repellat eaque maxime nam.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-04-17 19:51:41"
+    },
+    {
+        "notification_id": 4,
+        "user_id": 29,
+        "title": "Veniam ut tempore totam voluptates.",
+        "message": "Culpa voluptatum minus necessitatibus veritatis incidunt nostrum recusandae eius ea distinctio.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-05-09 16:21:38"
+    },
+    {
+        "notification_id": 5,
+        "user_id": 47,
+        "title": "Deserunt eos.",
+        "message": "Iure at neque recusandae consectetur amet qui modi similique nam hic officiis.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-05-01 12:56:55"
+    },
+    {
+        "notification_id": 6,
+        "user_id": 62,
+        "title": "Amet debitis soluta.",
+        "message": "Dolores amet similique molestiae asperiores molestiae assumenda.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-02-17 18:30:17"
+    },
+    {
+        "notification_id": 7,
+        "user_id": 46,
+        "title": "Atque ea molestias repudiandae aliquid.",
+        "message": "Sed dignissimos rem dolore odio maxime numquam asperiores quam molestias qui eum.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-09-30 18:56:56"
+    },
+    {
+        "notification_id": 8,
+        "user_id": 71,
+        "title": "Voluptatibus excepturi alias.",
+        "message": "Quod quod porro sint quam assumenda.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-09-30 21:38:43"
+    },
+    {
+        "notification_id": 9,
+        "user_id": 78,
+        "title": "Aspernatur porro laboriosam rem ipsa.",
+        "message": "Officia animi occaecati voluptas ad corrupti explicabo fugiat beatae totam officia quibusdam.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2025-11-07 03:18:47"
+    },
+    {
+        "notification_id": 10,
+        "user_id": 18,
+        "title": "Assumenda repellat nobis.",
+        "message": "Molestiae enim minima quisquam corrupti repudiandae enim numquam aliquam fugit aliquam ipsa ad.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-03-18 13:30:01"
+    },
+    {
+        "notification_id": 11,
+        "user_id": 34,
+        "title": "A ea.",
+        "message": "Fugiat odio at quam eius corrupti fugiat commodi impedit.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-06-03 15:32:49"
+    },
+    {
+        "notification_id": 12,
+        "user_id": 3,
+        "title": "Maiores voluptatibus fuga.",
+        "message": "Facilis reprehenderit quos fugiat aliquam quaerat.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-03-28 14:01:22"
+    },
+    {
+        "notification_id": 13,
+        "user_id": 75,
+        "title": "Amet dignissimos illum sequi.",
+        "message": "Itaque explicabo voluptatum quo quod veritatis sequi minima commodi aperiam reiciendis unde sint.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-11-04 00:51:02"
+    },
+    {
+        "notification_id": 14,
+        "user_id": 76,
+        "title": "Commodi nam minus a numquam.",
+        "message": "Vitae officia molestias labore sunt dolorum deserunt quaerat deleniti.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-04-06 09:50:28"
+    },
+    {
+        "notification_id": 15,
+        "user_id": 71,
+        "title": "Id doloribus.",
+        "message": "Consequuntur id perspiciatis quas maxime officia.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-04-13 21:08:15"
+    },
+    {
+        "notification_id": 16,
+        "user_id": 20,
+        "title": "Illum culpa doloribus.",
+        "message": "Quidem consectetur quam sapiente inventore aut vero dolorum iure aliquam hic.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-03-31 03:40:58"
+    },
+    {
+        "notification_id": 17,
+        "user_id": 29,
+        "title": "Culpa veniam fugiat enim.",
+        "message": "Delectus ratione quam fuga molestiae deleniti.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-10-11 06:57:21"
+    },
+    {
+        "notification_id": 18,
+        "user_id": 18,
+        "title": "Pariatur iusto.",
+        "message": "Illum eius enim nemo repellendus magnam ullam quo quasi.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-12-18 21:55:01"
+    },
+    {
+        "notification_id": 19,
+        "user_id": 51,
+        "title": "Nam magnam debitis.",
+        "message": "Ex voluptas iure rerum aperiam porro alias porro animi.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-06-25 02:39:24"
+    },
+    {
+        "notification_id": 20,
+        "user_id": 31,
+        "title": "Dolores totam distinctio.",
+        "message": "Deserunt minima nesciunt sunt commodi quas rem rem at quae.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-01-21 10:57:48"
+    },
+    {
+        "notification_id": 21,
+        "user_id": 66,
+        "title": "Iure soluta commodi aliquid voluptate.",
+        "message": "Nihil occaecati dicta dolor illo eum dolorem sunt sequi.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-05-05 18:39:16"
+    },
+    {
+        "notification_id": 22,
+        "user_id": 21,
+        "title": "Vero ullam.",
+        "message": "Quis libero vitae voluptatibus atque vero similique quod quam minima ab tenetur dignissimos.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-08-08 04:05:11"
+    },
+    {
+        "notification_id": 23,
+        "user_id": 62,
+        "title": "Nesciunt ex.",
+        "message": "Beatae consectetur nisi unde doloribus fugiat iusto praesentium eaque eligendi voluptatem.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2025-09-13 08:08:12"
+    },
+    {
+        "notification_id": 24,
+        "user_id": 29,
+        "title": "Totam sunt perspiciatis hic.",
+        "message": "Recusandae consequatur animi est architecto commodi minima quo enim molestiae dolorem id labore.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-06-19 07:46:37"
+    },
+    {
+        "notification_id": 25,
+        "user_id": 9,
+        "title": "Nesciunt quidem.",
+        "message": "Deserunt repellendus culpa dolor nobis corporis dolores eius excepturi asperiores ducimus.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-08-12 00:29:16"
+    },
+    {
+        "notification_id": 26,
+        "user_id": 30,
+        "title": "Consectetur modi velit.",
+        "message": "Repudiandae occaecati quod excepturi laudantium hic.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-01-13 22:23:49"
+    },
+    {
+        "notification_id": 27,
+        "user_id": 67,
+        "title": "Maxime atque.",
+        "message": "Incidunt sed vel velit soluta animi suscipit.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-12-16 04:12:32"
+    },
+    {
+        "notification_id": 28,
+        "user_id": 61,
+        "title": "Id non repellendus quis.",
+        "message": "Culpa iste eum quia aut cupiditate dolor tempore explicabo repellendus.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-02-11 13:22:24"
+    },
+    {
+        "notification_id": 29,
+        "user_id": 6,
+        "title": "Delectus nemo laborum sed incidunt.",
+        "message": "Officia consequuntur distinctio minima eaque quibusdam aliquam doloribus tempore a minus ipsum deserunt.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2025-11-21 18:06:28"
+    },
+    {
+        "notification_id": 30,
+        "user_id": 67,
+        "title": "Labore pariatur mollitia.",
+        "message": "Consequatur aliquid doloremque fugiat quam amet pariatur iste possimus non aliquid fuga.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-03-05 01:36:29"
+    },
+    {
+        "notification_id": 31,
+        "user_id": 75,
+        "title": "Provident rem enim delectus accusamus.",
+        "message": "Voluptatibus nesciunt cumque quidem provident numquam numquam quisquam nemo fugiat quos.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-11-20 23:12:00"
+    },
+    {
+        "notification_id": 32,
+        "user_id": 49,
+        "title": "Odit quis quia perspiciatis quis.",
+        "message": "At minima corporis quos neque odio necessitatibus corporis natus eos quo.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-07-08 11:02:11"
+    },
+    {
+        "notification_id": 33,
+        "user_id": 76,
+        "title": "Necessitatibus recusandae sequi.",
+        "message": "Tempora autem saepe rem dolore quos quod inventore.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-03-04 20:30:47"
+    },
+    {
+        "notification_id": 34,
+        "user_id": 49,
+        "title": "Vero amet numquam ad nam.",
+        "message": "Id blanditiis quisquam voluptas adipisci ipsam quibusdam.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-11-26 01:12:30"
+    },
+    {
+        "notification_id": 35,
+        "user_id": 46,
+        "title": "Velit quam maxime dolore pariatur.",
+        "message": "Tenetur officiis tempore maxime omnis natus accusantium reprehenderit eligendi a exercitationem illum optio.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-09-22 04:13:54"
+    },
+    {
+        "notification_id": 36,
+        "user_id": 62,
+        "title": "Nostrum exercitationem molestias sed corporis.",
+        "message": "Quis molestias corporis optio atque mollitia nemo exercitationem occaecati unde dolor natus repellat.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-09-05 00:13:31"
+    },
+    {
+        "notification_id": 37,
+        "user_id": 65,
+        "title": "Quisquam rem et.",
+        "message": "Voluptatem quibusdam dolorum deleniti eaque molestiae dolores recusandae est magni.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-03-28 23:34:14"
+    },
+    {
+        "notification_id": 38,
+        "user_id": 22,
+        "title": "Sequi rerum.",
+        "message": "Laboriosam dolore ab sequi ipsa hic suscipit aperiam.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-08-19 06:29:12"
+    },
+    {
+        "notification_id": 39,
+        "user_id": 66,
+        "title": "Rerum quis.",
+        "message": "Dicta aspernatur deserunt nostrum reprehenderit reprehenderit ad veniam fugiat animi officia aspernatur.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-03-30 11:10:57"
+    },
+    {
+        "notification_id": 40,
+        "user_id": 20,
+        "title": "Asperiores qui amet illum debitis.",
+        "message": "Maxime sit veniam odit occaecati amet fuga odit earum tempore ipsam nisi hic animi.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-01-19 05:39:36"
+    },
+    {
+        "notification_id": 41,
+        "user_id": 47,
+        "title": "Quas quis illum.",
+        "message": "Nisi exercitationem nam at sit quam repudiandae.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-07-22 05:49:54"
+    },
+    {
+        "notification_id": 42,
+        "user_id": 30,
+        "title": "Unde voluptatem natus ut.",
+        "message": "Quisquam ea id minima modi architecto.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-10-12 16:28:39"
+    },
+    {
+        "notification_id": 43,
+        "user_id": 15,
+        "title": "Dicta doloremque vel.",
+        "message": "Facere ut dicta totam illo iusto unde iure dignissimos voluptatum.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-07-16 08:14:29"
+    },
+    {
+        "notification_id": 44,
+        "user_id": 62,
+        "title": "Perspiciatis aspernatur cum.",
+        "message": "Beatae quibusdam dolores maiores pariatur consequatur libero nemo exercitationem commodi.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-10-21 14:42:54"
+    },
+    {
+        "notification_id": 45,
+        "user_id": 53,
+        "title": "Asperiores pariatur error eaque.",
+        "message": "Quas cumque neque aliquid sint eos.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-08-14 13:14:37"
+    },
+    {
+        "notification_id": 46,
+        "user_id": 6,
+        "title": "Inventore eligendi.",
+        "message": "Dolores dignissimos dolorum aut iusto autem.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-09-21 21:51:55"
+    },
+    {
+        "notification_id": 47,
+        "user_id": 18,
+        "title": "Qui libero maiores totam.",
+        "message": "Accusamus cum at laudantium reprehenderit modi.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-10-07 16:27:35"
+    },
+    {
+        "notification_id": 48,
+        "user_id": 74,
+        "title": "Occaecati ea.",
+        "message": "Cupiditate molestias quasi laudantium quasi non doloremque incidunt repudiandae soluta molestiae.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-07-04 07:20:55"
+    },
+    {
+        "notification_id": 49,
+        "user_id": 22,
+        "title": "Sed debitis.",
+        "message": "Illum excepturi nemo ipsum qui laudantium praesentium molestias odio illo.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-07-23 21:41:30"
+    },
+    {
+        "notification_id": 50,
+        "user_id": 67,
+        "title": "Iste praesentium illo.",
+        "message": "Doloremque illo quod corporis recusandae facilis a molestiae assumenda sapiente debitis occaecati.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-12-03 04:36:17"
+    },
+    {
+        "notification_id": 51,
+        "user_id": 37,
+        "title": "Assumenda hic sit.",
+        "message": "Accusamus ex voluptates vel placeat illo corrupti asperiores officiis vel.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-08-26 02:33:09"
+    },
+    {
+        "notification_id": 52,
+        "user_id": 58,
+        "title": "Consequuntur necessitatibus voluptas quidem veritatis.",
+        "message": "Nihil quo eaque inventore non enim molestias accusamus culpa tempora alias ex alias.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-03-20 21:00:14"
+    },
+    {
+        "notification_id": 53,
+        "user_id": 62,
+        "title": "Optio molestiae voluptate.",
+        "message": "Quaerat dolorum voluptas officiis error non sapiente non mollitia architecto assumenda expedita numquam.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-02-10 23:00:40"
+    },
+    {
+        "notification_id": 54,
+        "user_id": 53,
+        "title": "Vitae quibusdam alias omnis.",
+        "message": "Explicabo debitis tempora illo hic deserunt quisquam.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-04-09 21:34:47"
+    },
+    {
+        "notification_id": 55,
+        "user_id": 75,
+        "title": "Ad nulla eius.",
+        "message": "Vitae aperiam occaecati voluptate libero minus.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-12-25 04:00:15"
+    },
+    {
+        "notification_id": 56,
+        "user_id": 22,
+        "title": "Corrupti numquam totam magni quaerat.",
+        "message": "Saepe consectetur maiores deserunt voluptatibus alias officia.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-11-29 10:47:02"
+    },
+    {
+        "notification_id": 57,
+        "user_id": 77,
+        "title": "A officia placeat recusandae fuga.",
+        "message": "Sunt optio sint quidem hic quas ex itaque alias.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-04-16 05:21:45"
+    },
+    {
+        "notification_id": 58,
+        "user_id": 30,
+        "title": "Cumque tempore debitis.",
+        "message": "Sequi eaque delectus minima itaque hic consequuntur repudiandae nostrum delectus.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-11-01 15:09:09"
+    },
+    {
+        "notification_id": 59,
+        "user_id": 17,
+        "title": "Placeat qui sed.",
+        "message": "Rerum dolore velit molestias temporibus nemo aut illo ea placeat totam.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-10-09 07:41:52"
+    },
+    {
+        "notification_id": 60,
+        "user_id": 26,
+        "title": "Quis quam ut debitis velit.",
+        "message": "Cumque nemo illo nihil sit dolore minus quos fuga dolore.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-07-28 17:57:29"
+    },
+    {
+        "notification_id": 61,
+        "user_id": 20,
+        "title": "Autem quae fuga ad.",
+        "message": "Maxime vero veniam nam accusamus eum laborum perspiciatis repudiandae dolore deserunt occaecati.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-09-13 10:43:01"
+    },
+    {
+        "notification_id": 62,
+        "user_id": 23,
+        "title": "Repudiandae asperiores rerum totam nobis.",
+        "message": "Aliquid maxime provident neque eaque alias saepe distinctio.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-11-25 07:18:03"
+    },
+    {
+        "notification_id": 63,
+        "user_id": 69,
+        "title": "Eveniet iste.",
+        "message": "Repudiandae dicta dolor cupiditate nulla dolor in quas veritatis atque.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-06-04 01:50:00"
+    },
+    {
+        "notification_id": 64,
+        "user_id": 12,
+        "title": "Ipsum et accusamus nulla.",
+        "message": "Possimus officia autem veniam recusandae alias explicabo.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-01-22 04:34:15"
+    },
+    {
+        "notification_id": 65,
+        "user_id": 78,
+        "title": "Nulla veniam commodi nihil.",
+        "message": "Natus non rerum quidem ab facere doloremque maiores nam quisquam illo tempora.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-07-27 00:53:46"
+    },
+    {
+        "notification_id": 66,
+        "user_id": 56,
+        "title": "Nam totam quod impedit.",
+        "message": "Sint nesciunt impedit quidem molestiae eius similique consequuntur provident magni.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-05-12 13:13:01"
+    },
+    {
+        "notification_id": 67,
+        "user_id": 48,
+        "title": "Molestiae excepturi nihil.",
+        "message": "Recusandae et quae nostrum debitis consectetur vero tenetur voluptas repellat.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-01-11 02:41:31"
+    },
+    {
+        "notification_id": 68,
+        "user_id": 30,
+        "title": "Ad ut ab aliquam.",
+        "message": "Reiciendis fuga dolorem officia doloremque vero consectetur.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-07-04 14:08:25"
+    },
+    {
+        "notification_id": 69,
+        "user_id": 45,
+        "title": "Reiciendis sit.",
+        "message": "Dignissimos eum laboriosam maxime odio incidunt.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-05-11 12:32:50"
+    },
+    {
+        "notification_id": 70,
+        "user_id": 55,
+        "title": "Placeat eligendi eligendi.",
+        "message": "Minima fugit nesciunt voluptatum laudantium libero sed voluptatibus dolore ipsum odio ipsam.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-11-19 12:18:29"
+    },
+    {
+        "notification_id": 71,
+        "user_id": 62,
+        "title": "Corrupti ab facilis maiores.",
+        "message": "Ullam enim veniam architecto dolor repellendus provident repellat.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-09-07 23:08:27"
+    },
+    {
+        "notification_id": 72,
+        "user_id": 37,
+        "title": "Deleniti aperiam dicta.",
+        "message": "Soluta officia occaecati numquam animi qui suscipit.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-02-15 15:22:42"
+    },
+    {
+        "notification_id": 73,
+        "user_id": 33,
+        "title": "Impedit laudantium dignissimos.",
+        "message": "Iure ad cumque iusto maxime assumenda iste ratione tempore laboriosam eum quia facilis.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-03-29 15:21:10"
+    },
+    {
+        "notification_id": 74,
+        "user_id": 1,
+        "title": "Laborum fugiat sint.",
+        "message": "Eveniet nulla magni quod pariatur iste.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-07-13 05:48:08"
+    },
+    {
+        "notification_id": 75,
+        "user_id": 67,
+        "title": "Dolores aut amet sit quaerat.",
+        "message": "Officia cupiditate itaque dolor ipsam quaerat dolor.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-03-05 01:49:23"
+    },
+    {
+        "notification_id": 76,
+        "user_id": 27,
+        "title": "Vitae vero unde eveniet cupiditate.",
+        "message": "Veritatis tenetur distinctio illum cupiditate aut incidunt eveniet sequi asperiores esse mollitia corporis.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-07-12 02:21:14"
+    },
+    {
+        "notification_id": 77,
+        "user_id": 47,
+        "title": "Eveniet facilis vitae.",
+        "message": "Sequi molestiae eum velit eaque commodi quam iure quia laudantium cum hic doloribus.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-08-05 10:45:30"
+    },
+    {
+        "notification_id": 78,
+        "user_id": 55,
+        "title": "Ex sint neque veritatis libero.",
+        "message": "Debitis ipsum repudiandae similique ipsa delectus cupiditate.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-08-24 23:47:41"
+    },
+    {
+        "notification_id": 79,
+        "user_id": 34,
+        "title": "Animi doloribus tempore.",
+        "message": "Quis tenetur quaerat distinctio provident repellendus consequuntur veritatis veniam maxime consectetur.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-08-08 18:09:08"
+    },
+    {
+        "notification_id": 80,
+        "user_id": 73,
+        "title": "Consequatur facilis.",
+        "message": "Molestias cupiditate sunt eaque mollitia non.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-07-28 19:19:56"
+    },
+    {
+        "notification_id": 81,
+        "user_id": 51,
+        "title": "Maxime magni necessitatibus expedita.",
+        "message": "Possimus quam soluta pariatur facere dolores modi unde.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-06-04 00:47:33"
+    },
+    {
+        "notification_id": 82,
+        "user_id": 71,
+        "title": "Dicta eius.",
+        "message": "Dolores harum aspernatur nemo recusandae eum itaque expedita sit.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-10-18 10:15:50"
+    },
+    {
+        "notification_id": 83,
+        "user_id": 23,
+        "title": "Tempore sint ad corrupti neque.",
+        "message": "Quibusdam optio at dicta eius sint maiores animi reprehenderit tenetur nemo voluptatibus assumenda.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-04-21 13:38:10"
+    },
+    {
+        "notification_id": 84,
+        "user_id": 33,
+        "title": "Libero non beatae id odio.",
+        "message": "Blanditiis culpa sint unde vero illum quibusdam.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-09-21 01:56:09"
+    },
+    {
+        "notification_id": 85,
+        "user_id": 51,
+        "title": "Beatae quo.",
+        "message": "Blanditiis fugit autem totam aliquam nulla adipisci.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-09-19 15:55:53"
+    },
+    {
+        "notification_id": 86,
+        "user_id": 30,
+        "title": "Optio unde quis ut.",
+        "message": "Unde quia distinctio eos deserunt fugit dignissimos accusamus.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-10-06 07:19:52"
+    },
+    {
+        "notification_id": 87,
+        "user_id": 13,
+        "title": "Officiis pariatur error maxime.",
+        "message": "Quisquam eligendi aut eligendi ratione placeat numquam.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-09-21 11:02:04"
+    },
+    {
+        "notification_id": 88,
+        "user_id": 44,
+        "title": "Similique nemo eveniet consequatur.",
+        "message": "Enim consectetur saepe nihil praesentium facilis voluptas quam saepe architecto quia omnis rem.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-10-20 04:49:45"
+    },
+    {
+        "notification_id": 89,
+        "user_id": 21,
+        "title": "Nisi consectetur possimus libero accusantium.",
+        "message": "Dolorem iste consequuntur deleniti vel mollitia molestiae.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-12-26 06:58:53"
+    },
+    {
+        "notification_id": 90,
+        "user_id": 12,
+        "title": "Quis consectetur sed.",
+        "message": "Velit suscipit quod ad voluptatibus ut in facere cum.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-10-26 11:43:05"
+    },
+    {
+        "notification_id": 91,
+        "user_id": 77,
+        "title": "Libero animi nobis aperiam quaerat.",
+        "message": "Inventore similique ad dolorem consectetur eligendi officiis.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-07-13 19:29:24"
+    },
+    {
+        "notification_id": 92,
+        "user_id": 9,
+        "title": "Exercitationem ea.",
+        "message": "Repudiandae placeat odit dolore quae eligendi dolorum commodi.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-03-25 03:15:28"
+    },
+    {
+        "notification_id": 93,
+        "user_id": 48,
+        "title": "Tenetur illo libero totam.",
+        "message": "Fuga tempora est aperiam ipsam perspiciatis voluptatum fuga incidunt cupiditate doloribus.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-01-31 02:22:24"
+    },
+    {
+        "notification_id": 94,
+        "user_id": 50,
+        "title": "Consequatur repellat.",
+        "message": "Ipsa beatae mollitia quisquam reiciendis maiores aliquam ad tenetur recusandae mollitia.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-09-05 20:01:34"
+    },
+    {
+        "notification_id": 95,
+        "user_id": 77,
+        "title": "Id quis at cum.",
+        "message": "Aliquam accusamus atque quas facilis autem nihil sit autem exercitationem aperiam assumenda.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-02-11 06:43:49"
+    },
+    {
+        "notification_id": 96,
+        "user_id": 64,
+        "title": "Illum aut.",
+        "message": "Iure dolorem aspernatur aliquid sit facere.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-02-19 22:52:15"
+    },
+    {
+        "notification_id": 97,
+        "user_id": 26,
+        "title": "Laudantium dicta id.",
+        "message": "Provident ad natus delectus minus minus explicabo.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-01-10 06:11:49"
+    },
+    {
+        "notification_id": 98,
+        "user_id": 25,
+        "title": "Nisi libero dignissimos natus.",
+        "message": "Dicta perferendis sit dicta illo reprehenderit ullam ipsa ducimus ipsa.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-12-28 17:17:07"
+    },
+    {
+        "notification_id": 99,
+        "user_id": 79,
+        "title": "Reprehenderit aspernatur nesciunt minima.",
+        "message": "Praesentium labore adipisci voluptatem illo incidunt est.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-12-04 03:21:29"
+    },
+    {
+        "notification_id": 100,
+        "user_id": 47,
+        "title": "Nihil quidem recusandae amet nihil.",
+        "message": "Commodi dolorum accusantium omnis nesciunt molestiae velit architecto quaerat quidem similique.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-03-30 22:29:03"
+    },
+    {
+        "notification_id": 101,
+        "user_id": 21,
+        "title": "Nemo et pariatur.",
+        "message": "Et cupiditate ducimus non alias nihil.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-04-05 23:02:35"
+    },
+    {
+        "notification_id": 102,
+        "user_id": 52,
+        "title": "Reprehenderit ut hic non voluptatibus.",
+        "message": "Officia dicta nihil placeat repellendus fugit nam eos.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-01-04 10:11:21"
+    },
+    {
+        "notification_id": 103,
+        "user_id": 52,
+        "title": "Veritatis corrupti laborum veritatis.",
+        "message": "Laboriosam eaque doloremque cupiditate eum delectus qui voluptas pariatur nisi nesciunt tenetur.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-03-22 23:08:44"
+    },
+    {
+        "notification_id": 104,
+        "user_id": 67,
+        "title": "Rem architecto reprehenderit eaque.",
+        "message": "Sed veritatis consequuntur dolor amet itaque temporibus sapiente autem illum sapiente.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-04-11 11:08:05"
+    },
+    {
+        "notification_id": 105,
+        "user_id": 12,
+        "title": "Occaecati optio.",
+        "message": "Atque ut vel velit reiciendis doloremque placeat quibusdam nemo.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-03-17 02:39:44"
+    },
+    {
+        "notification_id": 106,
+        "user_id": 72,
+        "title": "Suscipit quod ipsum corporis.",
+        "message": "Assumenda ipsam ad saepe magnam nesciunt enim.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-04-11 17:56:33"
+    },
+    {
+        "notification_id": 107,
+        "user_id": 45,
+        "title": "Adipisci reprehenderit architecto molestias id.",
+        "message": "Esse consequuntur quidem iste sunt explicabo maiores unde necessitatibus.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-01-15 20:50:09"
+    },
+    {
+        "notification_id": 108,
+        "user_id": 78,
+        "title": "Fugiat ut molestiae aperiam.",
+        "message": "Ea aliquid labore labore atque sapiente.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-06-20 21:33:31"
+    },
+    {
+        "notification_id": 109,
+        "user_id": 52,
+        "title": "Fugit assumenda nisi.",
+        "message": "Quisquam pariatur vel magni libero repellendus earum.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-10-01 01:36:41"
+    },
+    {
+        "notification_id": 110,
+        "user_id": 34,
+        "title": "Perferendis nam magnam iure quibusdam.",
+        "message": "Velit pariatur sed optio amet aliquam explicabo quae ea ratione ratione incidunt explicabo.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-08-14 22:45:01"
+    },
+    {
+        "notification_id": 111,
+        "user_id": 65,
+        "title": "Tempore odit debitis eligendi.",
+        "message": "Nam ex fugiat autem ut neque similique omnis odit delectus odit suscipit unde.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-04-27 11:39:36"
+    },
+    {
+        "notification_id": 112,
+        "user_id": 65,
+        "title": "Rerum fugiat molestias.",
+        "message": "Vel inventore eaque maiores corrupti ipsam corrupti excepturi harum.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-09-28 21:57:16"
+    },
+    {
+        "notification_id": 113,
+        "user_id": 15,
+        "title": "Neque doloribus occaecati eius.",
+        "message": "Commodi magnam nemo ratione dolore modi minus magnam nostrum sunt consequuntur ea.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-01-31 01:55:37"
+    },
+    {
+        "notification_id": 114,
+        "user_id": 69,
+        "title": "Voluptatibus quidem ipsum.",
+        "message": "Architecto ad rerum at asperiores voluptatum beatae tempore voluptatibus dolorum optio voluptates odit.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-09-30 05:59:51"
+    },
+    {
+        "notification_id": 115,
+        "user_id": 57,
+        "title": "Quaerat autem distinctio.",
+        "message": "Tempora exercitationem voluptatem aliquam ducimus nam atque ex rerum accusantium cumque.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-07-15 20:58:27"
+    },
+    {
+        "notification_id": 116,
+        "user_id": 32,
+        "title": "Quibusdam libero ea.",
+        "message": "Atque et adipisci deserunt enim adipisci necessitatibus illo aperiam quidem laborum tenetur quibusdam.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-05-24 19:43:53"
+    },
+    {
+        "notification_id": 117,
+        "user_id": 59,
+        "title": "Consectetur ea modi quidem occaecati.",
+        "message": "Molestiae tenetur a id rerum corporis earum ipsam impedit sed autem dolorem.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-12-02 15:09:33"
+    },
+    {
+        "notification_id": 118,
+        "user_id": 62,
+        "title": "Delectus hic fugiat eaque in.",
+        "message": "Nulla totam praesentium neque possimus mollitia est magni necessitatibus porro sint eveniet.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-03-14 08:16:58"
+    },
+    {
+        "notification_id": 119,
+        "user_id": 9,
+        "title": "Voluptatem rem aliquid.",
+        "message": "Nostrum quam perspiciatis animi porro labore facere.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-04-25 12:52:08"
+    },
+    {
+        "notification_id": 120,
+        "user_id": 30,
+        "title": "Suscipit aliquid beatae labore.",
+        "message": "Placeat aperiam rerum modi quo rem dignissimos et illum quae commodi.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-02-13 17:29:40"
+    },
+    {
+        "notification_id": 121,
+        "user_id": 46,
+        "title": "Ea fuga animi laborum aliquid.",
+        "message": "Omnis nemo rem error voluptas dolorum aliquid ullam voluptatum placeat earum temporibus similique.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-03-24 01:39:23"
+    },
+    {
+        "notification_id": 122,
+        "user_id": 34,
+        "title": "Inventore illum eveniet ipsa.",
+        "message": "Accusamus ratione est incidunt facilis quidem excepturi tempora.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-03-07 16:30:27"
+    },
+    {
+        "notification_id": 123,
+        "user_id": 12,
+        "title": "Quos est eum dolore.",
+        "message": "Rem adipisci consectetur sequi fuga reiciendis soluta quos sequi delectus in praesentium.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-08-18 21:33:10"
+    },
+    {
+        "notification_id": 124,
+        "user_id": 10,
+        "title": "Id ex.",
+        "message": "Expedita unde ab ut incidunt sequi blanditiis corrupti debitis quis iste vitae laboriosam.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-04-09 20:48:36"
+    },
+    {
+        "notification_id": 125,
+        "user_id": 61,
+        "title": "Est consequatur et architecto.",
+        "message": "Aut debitis quae aut fuga voluptas.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-02-09 08:06:10"
+    },
+    {
+        "notification_id": 126,
+        "user_id": 28,
+        "title": "Modi maxime harum.",
+        "message": "Ab temporibus modi autem nihil voluptatem.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-01-31 17:33:19"
+    },
+    {
+        "notification_id": 127,
+        "user_id": 24,
+        "title": "Voluptatibus consectetur soluta cupiditate.",
+        "message": "Sunt facere ut tempore ut earum consequatur quaerat recusandae sequi odit incidunt corporis.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-09-09 22:10:40"
+    },
+    {
+        "notification_id": 128,
+        "user_id": 26,
+        "title": "Amet minus dolorem.",
+        "message": "Exercitationem inventore possimus quas sint minus itaque expedita reprehenderit cumque voluptatem veniam.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-10-04 17:57:43"
+    },
+    {
+        "notification_id": 129,
+        "user_id": 34,
+        "title": "Consectetur perferendis possimus.",
+        "message": "Magnam soluta facere quibusdam veniam aliquid perferendis inventore.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-11-24 11:56:17"
+    },
+    {
+        "notification_id": 130,
+        "user_id": 26,
+        "title": "Eligendi iusto qui sit.",
+        "message": "Beatae velit culpa quae ipsum quo.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-03-24 14:34:35"
+    },
+    {
+        "notification_id": 131,
+        "user_id": 20,
+        "title": "Placeat nulla repellendus assumenda.",
+        "message": "Temporibus id dignissimos optio officia perspiciatis cumque cumque deleniti rerum molestiae.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-04-20 21:52:45"
+    },
+    {
+        "notification_id": 132,
+        "user_id": 11,
+        "title": "Reprehenderit tempore explicabo.",
+        "message": "Omnis aperiam sed non harum doloribus.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-08-14 01:08:20"
+    },
+    {
+        "notification_id": 133,
+        "user_id": 70,
+        "title": "Eveniet odio alias.",
+        "message": "Voluptatibus voluptatem eveniet molestias rerum eaque tempora ex dolorem esse alias ullam praesentium.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-04-01 05:11:32"
+    },
+    {
+        "notification_id": 134,
+        "user_id": 48,
+        "title": "Maiores quaerat.",
+        "message": "Ipsam magnam maiores architecto incidunt voluptates eius ducimus pariatur facere ea.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-08-18 14:58:47"
+    },
+    {
+        "notification_id": 135,
+        "user_id": 64,
+        "title": "Distinctio modi facere architecto nobis.",
+        "message": "Ipsum quos autem odit officiis tenetur quas eum.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-04-04 19:41:24"
+    },
+    {
+        "notification_id": 136,
+        "user_id": 63,
+        "title": "Commodi modi vero maiores ducimus.",
+        "message": "Quasi rem necessitatibus incidunt nesciunt maiores culpa suscipit porro aperiam voluptatibus et.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-03-10 15:01:07"
+    },
+    {
+        "notification_id": 137,
+        "user_id": 51,
+        "title": "Saepe autem saepe.",
+        "message": "Ducimus doloremque repellat similique voluptates molestiae vitae.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-04-30 18:31:39"
+    },
+    {
+        "notification_id": 138,
+        "user_id": 7,
+        "title": "Cupiditate consequatur dignissimos.",
+        "message": "Officiis nihil cum doloremque necessitatibus aut voluptate voluptates optio libero hic repellendus velit.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-03-05 21:21:46"
+    },
+    {
+        "notification_id": 139,
+        "user_id": 62,
+        "title": "Voluptatem maxime maiores.",
+        "message": "Quae nam distinctio corporis aliquid blanditiis.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-10-08 17:49:59"
+    },
+    {
+        "notification_id": 140,
+        "user_id": 65,
+        "title": "Cupiditate a aperiam.",
+        "message": "Harum inventore beatae tenetur magni occaecati perferendis nam reiciendis laboriosam harum accusamus.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-08-30 07:45:28"
+    },
+    {
+        "notification_id": 141,
+        "user_id": 23,
+        "title": "Deleniti fugit at.",
+        "message": "Totam doloremque mollitia unde officiis odit.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-08-30 21:11:19"
+    },
+    {
+        "notification_id": 142,
+        "user_id": 67,
+        "title": "Magni aliquid laboriosam in quibusdam.",
+        "message": "Odit deserunt est sint nihil rerum ratione alias dicta quo accusantium saepe illo.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-10-07 16:20:33"
+    },
+    {
+        "notification_id": 143,
+        "user_id": 2,
+        "title": "Fuga repellendus.",
+        "message": "Veritatis nihil ipsa asperiores accusantium porro ipsa voluptas pariatur in.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-09-02 14:12:06"
+    },
+    {
+        "notification_id": 144,
+        "user_id": 49,
+        "title": "Accusamus officia.",
+        "message": "Error assumenda at sapiente voluptatibus dolore eligendi repellat molestiae aut.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-03-24 08:26:32"
+    },
+    {
+        "notification_id": 145,
+        "user_id": 42,
+        "title": "Eaque nulla aliquam nostrum facilis.",
+        "message": "Quis inventore molestias eos consequuntur modi necessitatibus numquam culpa non quos minus molestiae.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-03-02 13:39:36"
+    },
+    {
+        "notification_id": 146,
+        "user_id": 24,
+        "title": "Maxime odio blanditiis minus placeat.",
+        "message": "Quos asperiores adipisci rem inventore facilis sapiente necessitatibus tempore ad nisi consectetur.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-08-31 15:06:47"
+    },
+    {
+        "notification_id": 147,
+        "user_id": 31,
+        "title": "Inventore praesentium voluptates.",
+        "message": "Sed occaecati neque rerum delectus accusamus voluptate mollitia ab velit tempore.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-12-18 23:31:11"
+    },
+    {
+        "notification_id": 148,
+        "user_id": 79,
+        "title": "Velit quos facere.",
+        "message": "Et vero itaque itaque provident perferendis consequuntur error nobis quos atque perferendis.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-06-18 01:12:34"
+    },
+    {
+        "notification_id": 149,
+        "user_id": 24,
+        "title": "Corporis at quae illo consequuntur.",
+        "message": "Debitis consequuntur velit ex nesciunt ipsum repellat sunt totam.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-11-08 12:12:45"
+    },
+    {
+        "notification_id": 150,
+        "user_id": 27,
+        "title": "Eaque consequatur reprehenderit expedita.",
+        "message": "Fuga rerum aliquid ipsa magni a neque commodi sit.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-02-06 20:18:20"
+    },
+    {
+        "notification_id": 151,
+        "user_id": 47,
+        "title": "Quae accusantium.",
+        "message": "Aperiam id unde tempore illum veritatis.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-01-23 05:58:17"
+    },
+    {
+        "notification_id": 152,
+        "user_id": 58,
+        "title": "Distinctio consequatur sed.",
+        "message": "Voluptatibus magnam ullam nostrum suscipit suscipit eius animi laborum officiis totam maxime.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-09-29 08:18:19"
+    },
+    {
+        "notification_id": 153,
+        "user_id": 74,
+        "title": "Quaerat dolores consequatur.",
+        "message": "Asperiores velit molestiae ut quo ab aperiam ratione velit odit quidem.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-08-20 18:22:48"
+    },
+    {
+        "notification_id": 154,
+        "user_id": 35,
+        "title": "Blanditiis fuga.",
+        "message": "Nostrum sapiente suscipit autem repellendus assumenda.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-10-09 01:26:03"
+    },
+    {
+        "notification_id": 155,
+        "user_id": 49,
+        "title": "Aspernatur sunt quia dolorem.",
+        "message": "Amet necessitatibus dicta adipisci architecto inventore et accusamus vero ducimus praesentium.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-04-08 16:51:48"
+    },
+    {
+        "notification_id": 156,
+        "user_id": 20,
+        "title": "Soluta nemo.",
+        "message": "Natus eveniet eos repellat consequuntur necessitatibus iusto nihil nemo.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-06-29 20:44:00"
+    },
+    {
+        "notification_id": 157,
+        "user_id": 23,
+        "title": "Exercitationem nisi eius iusto.",
+        "message": "Impedit quasi vero recusandae maiores consequuntur labore.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-06-06 09:28:32"
+    },
+    {
+        "notification_id": 158,
+        "user_id": 18,
+        "title": "Repellat assumenda temporibus.",
+        "message": "Alias ex corrupti quo optio illo.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-04-20 17:23:58"
+    },
+    {
+        "notification_id": 159,
+        "user_id": 63,
+        "title": "Architecto tempora distinctio.",
+        "message": "Ipsa minima sunt doloribus sit corrupti minus illo earum molestias.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-08-12 23:10:59"
+    },
+    {
+        "notification_id": 160,
+        "user_id": 72,
+        "title": "Ipsum nihil dolor quaerat.",
+        "message": "Tempora ut magnam molestias voluptas et dolorem ullam reiciendis.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-03-30 18:15:57"
+    },
+    {
+        "notification_id": 161,
+        "user_id": 51,
+        "title": "Illo consequuntur aliquid.",
+        "message": "Amet repellendus unde provident hic ipsum excepturi aspernatur vero cum.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-03-05 02:37:35"
+    },
+    {
+        "notification_id": 162,
+        "user_id": 8,
+        "title": "Quas ab alias.",
+        "message": "Temporibus eveniet aliquam occaecati est adipisci voluptatibus aut doloremque veritatis.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-09-05 17:36:06"
+    },
+    {
+        "notification_id": 163,
+        "user_id": 61,
+        "title": "Quod velit atque voluptates.",
+        "message": "Consequuntur rem provident ipsum harum placeat.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2025-10-05 15:34:42"
+    },
+    {
+        "notification_id": 164,
+        "user_id": 43,
+        "title": "Odio illo numquam.",
+        "message": "Et ullam eaque velit placeat voluptatum tempora pariatur.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-10-07 15:03:04"
+    },
+    {
+        "notification_id": 165,
+        "user_id": 47,
+        "title": "Temporibus quos tempore facere.",
+        "message": "Ab similique quis praesentium amet eum.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-12-06 19:56:22"
+    },
+    {
+        "notification_id": 166,
+        "user_id": 45,
+        "title": "Sint ut temporibus.",
+        "message": "Vitae omnis placeat ea odio nulla adipisci eligendi veritatis laudantium.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-05-21 22:37:11"
+    },
+    {
+        "notification_id": 167,
+        "user_id": 16,
+        "title": "Provident sapiente iure mollitia.",
+        "message": "Provident nihil facilis adipisci dolorem quibusdam aperiam ab hic vero.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-03-27 10:16:57"
+    },
+    {
+        "notification_id": 168,
+        "user_id": 74,
+        "title": "Voluptas quo accusamus.",
+        "message": "Blanditiis eius commodi adipisci dolor aliquid nostrum voluptas eligendi asperiores error nostrum atque.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-10-22 19:52:01"
+    },
+    {
+        "notification_id": 169,
+        "user_id": 37,
+        "title": "Sunt nulla cupiditate molestias.",
+        "message": "Quis doloribus fugiat necessitatibus corporis facere architecto animi vitae necessitatibus.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-03-10 04:08:58"
+    },
+    {
+        "notification_id": 170,
+        "user_id": 66,
+        "title": "Officia id.",
+        "message": "Velit tenetur molestias asperiores harum ipsa ea quod tempora voluptatum magnam.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-04-24 12:36:36"
+    },
+    {
+        "notification_id": 171,
+        "user_id": 11,
+        "title": "Quaerat vero optio.",
+        "message": "Sed esse praesentium voluptates similique accusantium hic itaque quis sed ex ab cum.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-12-10 23:28:05"
+    },
+    {
+        "notification_id": 172,
+        "user_id": 60,
+        "title": "Asperiores distinctio.",
+        "message": "Est consectetur hic enim itaque ducimus neque occaecati optio nemo.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-05-27 10:09:58"
+    },
+    {
+        "notification_id": 173,
+        "user_id": 44,
+        "title": "Dolor dolore ex.",
+        "message": "Architecto qui adipisci aliquam tempora in perspiciatis.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-12-14 04:11:00"
+    },
+    {
+        "notification_id": 174,
+        "user_id": 10,
+        "title": "Ab quisquam molestiae.",
+        "message": "Magni doloribus corrupti temporibus at hic dolore consequatur unde eligendi perspiciatis.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-07-22 12:21:46"
+    },
+    {
+        "notification_id": 175,
+        "user_id": 44,
+        "title": "Ex soluta natus ratione.",
+        "message": "Iste similique similique assumenda nisi nisi incidunt cumque aliquid veritatis dolores perferendis.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-07-06 12:07:29"
+    },
+    {
+        "notification_id": 176,
+        "user_id": 41,
+        "title": "Reiciendis suscipit consequuntur.",
+        "message": "Explicabo delectus ducimus voluptatem suscipit possimus commodi tenetur beatae reiciendis.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-06-20 19:05:18"
+    },
+    {
+        "notification_id": 177,
+        "user_id": 78,
+        "title": "Dolorem quibusdam ab.",
+        "message": "Inventore vero aut recusandae quas cupiditate explicabo tenetur.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-05-29 23:28:38"
+    },
+    {
+        "notification_id": 178,
+        "user_id": 57,
+        "title": "Minima tenetur quam.",
+        "message": "Natus inventore quo magnam distinctio fuga mollitia aspernatur nihil est.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-05-15 23:27:04"
+    },
+    {
+        "notification_id": 179,
+        "user_id": 53,
+        "title": "Porro iusto provident atque.",
+        "message": "Maxime quae quibusdam quo totam laboriosam quisquam praesentium similique architecto voluptatem non culpa.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-07-16 17:20:50"
+    },
+    {
+        "notification_id": 180,
+        "user_id": 3,
+        "title": "Laboriosam cupiditate magni ex sunt.",
+        "message": "Omnis voluptatum consequuntur quam labore a.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-10-05 20:05:44"
+    },
+    {
+        "notification_id": 181,
+        "user_id": 33,
+        "title": "Distinctio eos consectetur unde voluptatem.",
+        "message": "Optio culpa dolorum eius laborum eius distinctio.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-09-17 23:46:52"
+    },
+    {
+        "notification_id": 182,
+        "user_id": 22,
+        "title": "Quibusdam architecto voluptate vero neque.",
+        "message": "Praesentium perferendis quasi quasi consectetur odio voluptatem eius.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-05-02 07:04:43"
+    },
+    {
+        "notification_id": 183,
+        "user_id": 13,
+        "title": "Dolor consectetur quaerat.",
+        "message": "Facere ut possimus aut fuga deserunt tempore quis magnam in suscipit illum.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2025-12-29 14:14:44"
+    },
+    {
+        "notification_id": 184,
+        "user_id": 71,
+        "title": "A voluptates animi.",
+        "message": "Doloremque repudiandae itaque explicabo temporibus atque modi consequatur architecto ad cum nisi impedit.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-07-06 22:53:26"
+    },
+    {
+        "notification_id": 185,
+        "user_id": 51,
+        "title": "Iusto fugiat.",
+        "message": "Aliquam velit neque veritatis dolor velit adipisci dolorum vitae molestiae eius nulla hic.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-09-25 10:20:03"
+    },
+    {
+        "notification_id": 186,
+        "user_id": 14,
+        "title": "Aspernatur sit vel in accusamus.",
+        "message": "Facilis nam fuga sapiente sapiente tenetur.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-01-23 16:39:24"
+    },
+    {
+        "notification_id": 187,
+        "user_id": 11,
+        "title": "Fugit praesentium.",
+        "message": "Assumenda maiores hic facere esse enim quis.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-11-04 18:45:07"
+    },
+    {
+        "notification_id": 188,
+        "user_id": 30,
+        "title": "Omnis ipsam inventore.",
+        "message": "Placeat non deleniti dolore impedit ab officia fugiat.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-01-21 00:26:40"
+    },
+    {
+        "notification_id": 189,
+        "user_id": 57,
+        "title": "Consectetur cumque consequatur.",
+        "message": "At voluptas ducimus ratione pariatur ullam qui.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-04-09 01:15:15"
+    },
+    {
+        "notification_id": 190,
+        "user_id": 68,
+        "title": "Possimus eaque corrupti perspiciatis sed.",
+        "message": "Modi laudantium voluptates veniam nulla qui.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-07-25 03:30:56"
+    },
+    {
+        "notification_id": 191,
+        "user_id": 5,
+        "title": "Corporis dolores est reprehenderit.",
+        "message": "Omnis necessitatibus fugit dolore nam rem suscipit.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-05-04 12:52:16"
+    },
+    {
+        "notification_id": 192,
+        "user_id": 61,
+        "title": "Veniam voluptate delectus.",
+        "message": "Pariatur facilis doloremque doloribus veniam veniam alias porro aspernatur provident.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-12-17 22:21:34"
+    },
+    {
+        "notification_id": 193,
+        "user_id": 71,
+        "title": "Libero adipisci voluptatem eaque sint.",
+        "message": "Totam natus eaque ex iste nesciunt tempora reiciendis eaque quo.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-07-13 22:55:05"
+    },
+    {
+        "notification_id": 194,
+        "user_id": 70,
+        "title": "Veniam facere dolores fuga.",
+        "message": "Voluptatibus earum harum quas quod fugit rem inventore temporibus consectetur debitis eligendi.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-08-06 10:40:20"
+    },
+    {
+        "notification_id": 195,
+        "user_id": 73,
+        "title": "Possimus ab ex saepe nulla.",
+        "message": "Magni repellendus delectus id consequuntur ratione fuga fugit error.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-01-18 07:50:32"
+    },
+    {
+        "notification_id": 196,
+        "user_id": 45,
+        "title": "Beatae ullam accusamus.",
+        "message": "Consequatur facilis quaerat voluptates eaque harum ut enim voluptatum.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-11-08 16:17:46"
+    },
+    {
+        "notification_id": 197,
+        "user_id": 12,
+        "title": "Nesciunt dolorum tempore velit repellendus.",
+        "message": "Quod suscipit distinctio repellat iste impedit omnis itaque aut.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-07-16 06:35:12"
+    },
+    {
+        "notification_id": 198,
+        "user_id": 47,
+        "title": "Adipisci officia.",
+        "message": "Libero minus explicabo cumque ut aspernatur quas.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-01-18 07:22:29"
+    },
+    {
+        "notification_id": 199,
+        "user_id": 20,
+        "title": "Totam nam.",
+        "message": "Culpa facilis voluptas eius tempore inventore temporibus reiciendis ea sapiente.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-04-07 11:25:11"
+    },
+    {
+        "notification_id": 200,
+        "user_id": 1,
+        "title": "Aliquid libero odit cum.",
+        "message": "Porro illum exercitationem quia corporis temporibus.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-01-24 14:02:35"
+    },
+    {
+        "notification_id": 201,
+        "user_id": 45,
+        "title": "Consequatur inventore placeat illum.",
+        "message": "Iusto beatae tenetur officia aliquid quis praesentium repellendus.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-06-09 20:24:36"
+    },
+    {
+        "notification_id": 202,
+        "user_id": 69,
+        "title": "Ut aperiam unde facilis.",
+        "message": "Omnis aliquid ad corrupti sequi debitis consectetur est eum optio veniam blanditiis.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2025-08-08 03:09:32"
+    },
+    {
+        "notification_id": 203,
+        "user_id": 62,
+        "title": "Error voluptas porro commodi ullam.",
+        "message": "Minus occaecati assumenda voluptatibus tenetur dicta dicta numquam expedita culpa quod.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2025-10-05 04:58:39"
+    },
+    {
+        "notification_id": 204,
+        "user_id": 56,
+        "title": "Nobis delectus.",
+        "message": "Sequi quos exercitationem quaerat vitae explicabo tempora omnis distinctio doloremque cumque odit quo ipsam.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-04-26 10:29:22"
+    },
+    {
+        "notification_id": 205,
+        "user_id": 1,
+        "title": "Deleniti minima non a facilis.",
+        "message": "Porro repudiandae quos dolore explicabo consectetur incidunt assumenda expedita alias id tenetur.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-02-27 22:15:06"
+    },
+    {
+        "notification_id": 206,
+        "user_id": 25,
+        "title": "Aliquid deleniti non ratione.",
+        "message": "Quisquam rem rerum dicta aliquam accusamus commodi.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-12-29 19:23:55"
+    },
+    {
+        "notification_id": 207,
+        "user_id": 51,
+        "title": "Explicabo sapiente.",
+        "message": "Dolore vitae perspiciatis odio delectus at similique pariatur sapiente ipsa provident ea similique.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-05-27 12:31:05"
+    },
+    {
+        "notification_id": 208,
+        "user_id": 50,
+        "title": "Laboriosam eveniet quidem consectetur.",
+        "message": "Voluptatem vitae voluptatem voluptatem consequuntur cum quae accusantium.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-09-08 01:39:06"
+    },
+    {
+        "notification_id": 209,
+        "user_id": 34,
+        "title": "Eos voluptatum exercitationem voluptatibus similique.",
+        "message": "Culpa repellendus voluptatibus occaecati delectus quasi explicabo animi delectus suscipit voluptatibus excepturi fuga.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2025-08-17 00:02:08"
+    },
+    {
+        "notification_id": 210,
+        "user_id": 31,
+        "title": "Doloribus tempore ratione laboriosam.",
+        "message": "Architecto officia minus earum placeat laudantium autem dolores laborum.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-11-28 06:50:07"
+    },
+    {
+        "notification_id": 211,
+        "user_id": 37,
+        "title": "Sequi veniam quo.",
+        "message": "Eum accusamus optio dolor harum illo animi quos optio dolorem repudiandae labore facilis.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-08-22 10:02:46"
+    },
+    {
+        "notification_id": 212,
+        "user_id": 53,
+        "title": "Quas ratione aliquid et.",
+        "message": "Asperiores cupiditate numquam architecto assumenda voluptate eaque aspernatur quisquam perferendis ex earum necessitatibus.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-04-15 06:11:29"
+    },
+    {
+        "notification_id": 213,
+        "user_id": 24,
+        "title": "Nemo fugiat.",
+        "message": "Nihil iste libero rem animi rem repellat accusantium.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-10-02 09:05:42"
+    },
+    {
+        "notification_id": 214,
+        "user_id": 15,
+        "title": "Voluptate pariatur architecto sint.",
+        "message": "Atque quas at esse velit nemo quibusdam inventore veniam illo minus officia.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-01-02 12:28:58"
+    },
+    {
+        "notification_id": 215,
+        "user_id": 35,
+        "title": "Necessitatibus minima.",
+        "message": "Asperiores incidunt tempora doloremque reiciendis voluptates delectus ipsa.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-12-27 01:56:46"
+    },
+    {
+        "notification_id": 216,
+        "user_id": 25,
+        "title": "Itaque excepturi.",
+        "message": "Vitae modi labore molestias explicabo sapiente vel velit placeat tempore praesentium est beatae.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2025-09-02 11:06:25"
+    },
+    {
+        "notification_id": 217,
+        "user_id": 20,
+        "title": "Quo eveniet deleniti veritatis perferendis.",
+        "message": "Odio delectus commodi aliquid commodi architecto sapiente quo laborum fugiat voluptatibus natus itaque.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2026-07-21 18:56:40"
+    },
+    {
+        "notification_id": 218,
+        "user_id": 24,
+        "title": "Laboriosam quae a.",
+        "message": "Voluptas iure esse molestias quis libero error ipsum ipsum est velit.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-01-07 21:09:56"
+    },
+    {
+        "notification_id": 219,
+        "user_id": 35,
+        "title": "Harum expedita porro.",
+        "message": "Ducimus ex ad doloribus et dolore.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-10-14 04:56:01"
+    },
+    {
+        "notification_id": 220,
+        "user_id": 2,
+        "title": "Nihil harum.",
+        "message": "Natus nulla vitae ipsam beatae odio officiis consequatur possimus.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-10-23 08:31:54"
+    },
+    {
+        "notification_id": 221,
+        "user_id": 20,
+        "title": "Dignissimos possimus nisi quaerat.",
+        "message": "Facilis beatae minus iure perferendis incidunt doloremque aspernatur.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2025-11-27 19:15:41"
+    },
+    {
+        "notification_id": 222,
+        "user_id": 28,
+        "title": "Enim minima sed saepe quis.",
+        "message": "Hic ullam impedit ipsa error ex ea temporibus unde quia esse ducimus asperiores.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2026-07-12 02:10:46"
+    },
+    {
+        "notification_id": 223,
+        "user_id": 40,
+        "title": "Nostrum hic unde.",
+        "message": "Doloribus non rerum velit ea neque eligendi nemo earum illum accusantium quis saepe.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-04-26 13:15:50"
+    },
+    {
+        "notification_id": 224,
+        "user_id": 60,
+        "title": "Cupiditate dolore nihil magnam consectetur.",
+        "message": "Quam dolor nemo repellendus odit sunt nesciunt ut aut culpa voluptas voluptatum.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-05-20 02:28:32"
+    },
+    {
+        "notification_id": 225,
+        "user_id": 11,
+        "title": "Ipsum aperiam cupiditate similique quis.",
+        "message": "Eveniet tempore maxime deserunt occaecati quos fuga labore nesciunt similique commodi doloribus.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-08-14 12:24:00"
+    },
+    {
+        "notification_id": 226,
+        "user_id": 35,
+        "title": "Eius inventore esse.",
+        "message": "Corrupti nostrum necessitatibus reprehenderit consequuntur qui.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-12-14 00:28:25"
+    },
+    {
+        "notification_id": 227,
+        "user_id": 70,
+        "title": "Consequatur beatae.",
+        "message": "Ex hic explicabo provident hic ex excepturi perspiciatis iusto a velit.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-06-06 22:26:24"
+    },
+    {
+        "notification_id": 228,
+        "user_id": 25,
+        "title": "Ullam non.",
+        "message": "Ea facere error ea eveniet harum.",
+        "notification_type": "Proposal",
+        "is_read": false,
+        "created_at": "2025-08-30 17:21:51"
+    },
+    {
+        "notification_id": 229,
+        "user_id": 2,
+        "title": "Dolore molestiae.",
+        "message": "Aliquid dignissimos tempora deleniti illum ut qui alias dolorum est.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-11-19 13:07:05"
+    },
+    {
+        "notification_id": 230,
+        "user_id": 50,
+        "title": "Eaque dignissimos autem.",
+        "message": "Doloremque iste neque magnam possimus reiciendis id reprehenderit rerum.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2025-08-10 12:56:42"
+    },
+    {
+        "notification_id": 231,
+        "user_id": 5,
+        "title": "Recusandae voluptates officiis quae tempore.",
+        "message": "Similique fugit nesciunt amet suscipit officiis officia voluptas ipsa enim iure deleniti alias.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2025-10-17 13:38:45"
+    },
+    {
+        "notification_id": 232,
+        "user_id": 13,
+        "title": "Animi dolorem recusandae rerum.",
+        "message": "Cum repellendus non eligendi hic debitis.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2026-05-16 17:55:22"
+    },
+    {
+        "notification_id": 233,
+        "user_id": 61,
+        "title": "Quas quidem quis dicta.",
+        "message": "Maxime corrupti recusandae ab accusamus ex nemo.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2025-09-08 17:16:42"
+    },
+    {
+        "notification_id": 234,
+        "user_id": 42,
+        "title": "Dignissimos ab accusantium.",
+        "message": "Ducimus iusto architecto porro pariatur incidunt itaque ut.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-08-02 00:13:54"
+    },
+    {
+        "notification_id": 235,
+        "user_id": 71,
+        "title": "Sequi consequuntur laboriosam nostrum.",
+        "message": "Dolorum quibusdam cupiditate odit distinctio aspernatur temporibus tenetur quasi nam.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-11-06 04:06:52"
+    },
+    {
+        "notification_id": 236,
+        "user_id": 33,
+        "title": "Cupiditate adipisci earum ullam.",
+        "message": "Aliquid molestiae itaque veniam reiciendis repellat reiciendis.",
+        "notification_type": "Project",
+        "is_read": false,
+        "created_at": "2026-07-20 02:01:53"
+    },
+    {
+        "notification_id": 237,
+        "user_id": 26,
+        "title": "At quaerat.",
+        "message": "Optio consequatur amet fuga ipsa soluta impedit rerum.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-04-11 09:15:04"
+    },
+    {
+        "notification_id": 238,
+        "user_id": 28,
+        "title": "Iure quod aut totam odit.",
+        "message": "Eum ea autem ratione nobis similique unde amet facere molestiae modi ullam.",
+        "notification_type": "System",
+        "is_read": true,
+        "created_at": "2025-09-26 16:37:48"
+    },
+    {
+        "notification_id": 239,
+        "user_id": 56,
+        "title": "Occaecati excepturi sit aperiam.",
+        "message": "Et aliquam veritatis quos exercitationem hic modi.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-05-01 14:27:50"
+    },
+    {
+        "notification_id": 240,
+        "user_id": 22,
+        "title": "Totam quam corporis.",
+        "message": "Laborum occaecati iste quo asperiores delectus consectetur assumenda aliquid.",
+        "notification_type": "Proposal",
+        "is_read": true,
+        "created_at": "2026-02-20 00:56:14"
+    },
+    {
+        "notification_id": 241,
+        "user_id": 51,
+        "title": "Vitae aliquam possimus voluptatem.",
+        "message": "Impedit ullam nostrum pariatur tempora tempore iste amet repudiandae eos alias occaecati dolorem.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2025-09-25 12:20:11"
+    },
+    {
+        "notification_id": 242,
+        "user_id": 6,
+        "title": "Aut voluptas nulla possimus.",
+        "message": "Nisi quasi tempore autem aut cupiditate temporibus veniam.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2026-05-15 12:23:36"
+    },
+    {
+        "notification_id": 243,
+        "user_id": 77,
+        "title": "Dolorum nam delectus.",
+        "message": "Facere enim corporis fugiat fugiat eum.",
+        "notification_type": "Payment",
+        "is_read": false,
+        "created_at": "2026-06-08 18:39:41"
+    },
+    {
+        "notification_id": 244,
+        "user_id": 12,
+        "title": "Nihil officia sed.",
+        "message": "Tenetur qui a molestiae deserunt voluptate eos ipsam.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-07-15 06:11:46"
+    },
+    {
+        "notification_id": 245,
+        "user_id": 64,
+        "title": "Esse saepe.",
+        "message": "Magni neque ex earum accusantium cumque similique nostrum fugiat magni expedita nostrum.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-07-03 15:37:25"
+    },
+    {
+        "notification_id": 246,
+        "user_id": 8,
+        "title": "Deleniti placeat libero numquam.",
+        "message": "Id odio distinctio veniam nisi et doloremque delectus.",
+        "notification_type": "System",
+        "is_read": false,
+        "created_at": "2026-07-21 15:24:45"
+    },
+    {
+        "notification_id": 247,
+        "user_id": 20,
+        "title": "Labore recusandae cum facere.",
+        "message": "Accusantium aspernatur id molestiae consequuntur non adipisci.",
+        "notification_type": "Review",
+        "is_read": true,
+        "created_at": "2025-12-19 02:42:16"
+    },
+    {
+        "notification_id": 248,
+        "user_id": 17,
+        "title": "Quam culpa nihil blanditiis eum.",
+        "message": "Dolor corrupti et quidem praesentium illo ipsa iure quam culpa illum.",
+        "notification_type": "Project",
+        "is_read": true,
+        "created_at": "2026-06-14 21:32:54"
+    },
+    {
+        "notification_id": 249,
+        "user_id": 41,
+        "title": "Quam optio veritatis aliquam fugiat.",
+        "message": "Optio numquam ad pariatur excepturi deserunt quam dolore modi sed.",
+        "notification_type": "Review",
+        "is_read": false,
+        "created_at": "2025-08-14 18:54:43"
+    },
+    {
+        "notification_id": 250,
+        "user_id": 57,
+        "title": "Nemo sequi dolore.",
+        "message": "Aperiam odit debitis corrupti veniam cupiditate asperiores quibusdam.",
+        "notification_type": "Payment",
+        "is_read": true,
+        "created_at": "2026-02-12 10:40:49"
+    }
+]

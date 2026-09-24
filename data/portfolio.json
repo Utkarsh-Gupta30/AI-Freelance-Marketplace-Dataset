@@ -1,0 +1,902 @@
+[
+    {
+        "portfolio_id": 1,
+        "freelancer_id": 33,
+        "project_title": "Fitness Tracking App",
+        "project_description": "Praesentium maxime quidem officia eligendi consequatur quis. Velit incidunt ipsa aspernatur ad. Eum laborum harum libero.",
+        "project_link": "https://www.barman.com/",
+        "technologies_used": "Vue.js, JavaScript, Kubernetes, CSS",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 2,
+        "freelancer_id": 19,
+        "project_title": "Banking Management System",
+        "project_description": "Molestiae odit qui modi aliquid esse deleniti. Amet repudiandae soluta qui minima debitis fuga. Tenetur atque veniam. Quae asperiores dignissimos dignissimos odit.",
+        "project_link": "http://www.jha-dada.com/",
+        "technologies_used": "React Native, Figma, NLP, Angular",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 3,
+        "freelancer_id": 32,
+        "project_title": "Hotel Booking Website",
+        "project_description": "Optio totam ex debitis harum.",
+        "project_link": "http://basu-dugal.com/",
+        "technologies_used": "Vue.js, Adobe Photoshop, Docker",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 4,
+        "freelancer_id": 2,
+        "project_title": "Attendance Management System",
+        "project_description": "Numquam ducimus ullam perspiciatis quae. Est velit officiis totam illum ab reprehenderit fugiat. Repellendus laborum nobis occaecati hic. Consectetur porro architecto beatae culpa ratione architecto.",
+        "project_link": "https://www.kunda.net/",
+        "technologies_used": "TensorFlow, Angular, Node.js",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 5,
+        "freelancer_id": 2,
+        "project_title": "Fitness Tracking App",
+        "project_description": "Sequi ea quis hic suscipit. Veniam mollitia libero consectetur voluptatum.",
+        "project_link": "https://choudhury.com/",
+        "technologies_used": "React, PHP, Computer Vision",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 6,
+        "freelancer_id": 3,
+        "project_title": "Food Delivery Application",
+        "project_description": "Assumenda possimus architecto ipsa. Ipsa consequuntur nisi aliquam ut quisquam. Quisquam quam aliquam accusamus corrupti.",
+        "project_link": "https://www.shere-iyer.com/",
+        "technologies_used": "PyTorch, PostgreSQL, Machine Learning, CSS",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 7,
+        "freelancer_id": 4,
+        "project_title": "Hospital Management System",
+        "project_description": "Corrupti eos aperiam delectus deserunt omnis. Ad ipsam sapiente nobis enim cum. Vitae animi placeat illum modi nulla cumque.",
+        "project_link": "https://dhar.com/",
+        "technologies_used": "CSS, Computer Vision",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 8,
+        "freelancer_id": 27,
+        "project_title": "Banking Management System",
+        "project_description": "A animi harum necessitatibus sequi quis.",
+        "project_link": "http://www.soni.biz/",
+        "technologies_used": "React, PostgreSQL, Java, Swift, Computer Vision",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 9,
+        "freelancer_id": 14,
+        "project_title": "AI Chatbot Development",
+        "project_description": "Harum tenetur dolores laudantium dolorum voluptatem odio laboriosam. Iste sunt dolore enim.",
+        "project_link": "http://dyal-pillai.com/",
+        "technologies_used": "React Native, NLP, React, MySQL",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 10,
+        "freelancer_id": 40,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Corporis itaque quae molestiae dolorem. Commodi occaecati dignissimos illo sunt itaque. Ipsam harum facilis eveniet id quam dignissimos.",
+        "project_link": "http://www.hayer.net/",
+        "technologies_used": "React Native, Kubernetes, Figma",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 11,
+        "freelancer_id": 33,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Officia distinctio consequuntur autem officiis error. Impedit dicta excepturi suscipit optio vel inventore velit. Possimus harum pariatur.",
+        "project_link": "https://www.ratti.biz/",
+        "technologies_used": "C++, React",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 12,
+        "freelancer_id": 7,
+        "project_title": "AI Resume Analyzer",
+        "project_description": "Doloribus qui quis laborum nostrum quis minus. Soluta perspiciatis ratione assumenda ab similique amet sequi. Ut explicabo quia vero esse architecto.",
+        "project_link": "https://nigam-gill.com/",
+        "technologies_used": "Machine Learning, Node.js, PyTorch",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 13,
+        "freelancer_id": 34,
+        "project_title": "Stock Price Prediction",
+        "project_description": "Rem cum sunt cum. Minus nulla culpa mollitia.",
+        "project_link": "https://krish.info/",
+        "technologies_used": "Computer Vision, React Native, C++, Vue.js",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 14,
+        "freelancer_id": 36,
+        "project_title": "AI Resume Analyzer",
+        "project_description": "Consequatur fugit fugit. Quisquam nesciunt voluptates facere.",
+        "project_link": "https://www.bahri-swamy.org/",
+        "technologies_used": "Computer Vision, Adobe Photoshop, Swift",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 15,
+        "freelancer_id": 16,
+        "project_title": "AI Chatbot Development",
+        "project_description": "Voluptates suscipit architecto consequatur error hic. Beatae vel vero deserunt. Eos recusandae ratione explicabo voluptates libero.",
+        "project_link": "https://www.krishnan-handa.net/",
+        "technologies_used": "NLP, JavaScript",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 16,
+        "freelancer_id": 37,
+        "project_title": "AI Resume Analyzer",
+        "project_description": "Temporibus ad et cumque officiis praesentium ea. Excepturi earum voluptatum omnis optio ex.",
+        "project_link": "http://www.anne.biz/",
+        "technologies_used": "JavaScript, PyTorch, MySQL",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 17,
+        "freelancer_id": 47,
+        "project_title": "Hospital Management System",
+        "project_description": "Fugit alias perferendis possimus excepturi rem sequi. Illum exercitationem velit quaerat mollitia laborum.",
+        "project_link": "https://www.chad-nagar.net/",
+        "technologies_used": "Deep Learning, Python, Kotlin, C++",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 18,
+        "freelancer_id": 30,
+        "project_title": "E-Commerce Website",
+        "project_description": "Repellat rem autem. Debitis aperiam nemo dolores.",
+        "project_link": "http://www.arya.com/",
+        "technologies_used": "Kubernetes, Vue.js",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 19,
+        "freelancer_id": 3,
+        "project_title": "Face Recognition System",
+        "project_description": "Culpa numquam sit itaque. Ratione autem commodi provident dicta quia. Delectus quaerat at inventore. Distinctio quaerat harum numquam deserunt.",
+        "project_link": "http://grewal.org/",
+        "technologies_used": "Docker, NLP, C#, React Native",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 20,
+        "freelancer_id": 8,
+        "project_title": "Hospital Management System",
+        "project_description": "Delectus ab debitis deserunt corporis molestiae. Praesentium praesentium asperiores deleniti eum.",
+        "project_link": "http://www.minhas-sachar.net/",
+        "technologies_used": "HTML, AWS",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 21,
+        "freelancer_id": 43,
+        "project_title": "Weather Forecast App",
+        "project_description": "Incidunt repudiandae quasi minus omnis. Eligendi cum aperiam laudantium temporibus.",
+        "project_link": "http://sehgal.com/",
+        "technologies_used": "PHP, Figma, Kotlin, Machine Learning",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 22,
+        "freelancer_id": 47,
+        "project_title": "Restaurant Management System",
+        "project_description": "Quo totam praesentium non vero necessitatibus quas eum. Quia laboriosam libero quis et voluptatum. Dolorem cupiditate porro illum sunt.",
+        "project_link": "https://shetty-sethi.com/",
+        "technologies_used": "Kubernetes, C#, Vue.js, React",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 23,
+        "freelancer_id": 26,
+        "project_title": "Banking Management System",
+        "project_description": "In ad consequuntur et voluptatibus odio. Facilis ipsa repellendus temporibus corrupti veniam.",
+        "project_link": "http://www.raman.com/",
+        "technologies_used": "Kubernetes, Flutter, Computer Vision, AWS",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 24,
+        "freelancer_id": 27,
+        "project_title": "Weather Forecast App",
+        "project_description": "Deserunt libero culpa rerum sequi eius. Laborum quam inventore veniam cum.",
+        "project_link": "http://bhavsar.info/",
+        "technologies_used": "Angular, Computer Vision",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 25,
+        "freelancer_id": 4,
+        "project_title": "Weather Forecast App",
+        "project_description": "Consequuntur maxime laudantium dolor laudantium. Occaecati excepturi est nulla nostrum. Consectetur eligendi quam rem sint fuga voluptas aperiam. Fuga doloribus velit porro tenetur temporibus odio.",
+        "project_link": "https://oak.com/",
+        "technologies_used": "React Native, Adobe Photoshop",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 26,
+        "freelancer_id": 31,
+        "project_title": "Fitness Tracking App",
+        "project_description": "Nemo tenetur provident non repellendus dolorum natus tempora. Magni atque quibusdam numquam aspernatur laudantium. Tempore veniam quas architecto harum deserunt quo quae.",
+        "project_link": "https://www.koshy-kapoor.com/",
+        "technologies_used": "Vue.js, Machine Learning, Flutter, PyTorch, PHP",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 27,
+        "freelancer_id": 2,
+        "project_title": "Portfolio Website",
+        "project_description": "Repudiandae laboriosam corporis earum eum voluptates. Sunt dicta repellat deleniti unde non eos aperiam. Minima magnam dolorum fugiat praesentium.",
+        "project_link": "http://jayaraman-dhawan.com/",
+        "technologies_used": "Adobe Photoshop, Swift, React, Figma, React Native",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 28,
+        "freelancer_id": 3,
+        "project_title": "Restaurant Management System",
+        "project_description": "Officiis quis aspernatur.",
+        "project_link": "https://www.raja-dugar.org/",
+        "technologies_used": "Deep Learning, C#, HTML, Computer Vision",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 29,
+        "freelancer_id": 44,
+        "project_title": "Invoice Management System",
+        "project_description": "Autem earum eius provident iste cum. Eum accusantium amet eveniet. Fuga et quam mollitia occaecati officia hic.",
+        "project_link": "https://www.mandal.net/",
+        "technologies_used": "NLP, AWS, C#",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 30,
+        "freelancer_id": 34,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Libero unde consequuntur aut. Velit doloremque quidem voluptas.",
+        "project_link": "https://www.oza-boase.info/",
+        "technologies_used": "React Native, NLP",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 31,
+        "freelancer_id": 16,
+        "project_title": "AI Resume Analyzer",
+        "project_description": "Aperiam impedit ratione possimus molestias at dignissimos. Beatae tenetur ea dolores. Ad officia possimus laboriosam aliquam quis veniam.",
+        "project_link": "http://ram-randhawa.com/",
+        "technologies_used": "NLP, Deep Learning, Flutter, Angular",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 32,
+        "freelancer_id": 36,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Laudantium pariatur possimus mollitia aliquam. Alias dolorem laudantium expedita aspernatur sunt magni repudiandae. Distinctio modi totam quia eligendi nam.",
+        "project_link": "https://www.kunda.com/",
+        "technologies_used": "HTML, Deep Learning",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 33,
+        "freelancer_id": 33,
+        "project_title": "AI Resume Analyzer",
+        "project_description": "Hic officiis iste ipsum voluptas. Quo dignissimos beatae harum autem ut dignissimos. Quasi error porro dolor nihil esse iure.",
+        "project_link": "http://vaidya.com/",
+        "technologies_used": "AWS, Vue.js, JavaScript, PyTorch, Swift",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 34,
+        "freelancer_id": 16,
+        "project_title": "Online Learning Platform",
+        "project_description": "Repudiandae similique dignissimos veniam harum.",
+        "project_link": "https://gandhi-swamy.info/",
+        "technologies_used": "CSS, MySQL, Python, PostgreSQL",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 35,
+        "freelancer_id": 25,
+        "project_title": "Food Delivery Application",
+        "project_description": "Eligendi voluptates similique dolorum nulla sunt sequi nulla. Veniam ut esse. Quas vero atque facilis officia voluptas.",
+        "project_link": "https://www.sahni-bains.com/",
+        "technologies_used": "JavaScript, Kotlin, Docker",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 36,
+        "freelancer_id": 29,
+        "project_title": "Restaurant Management System",
+        "project_description": "Error ea ut suscipit.",
+        "project_link": "http://www.balasubramanian.com/",
+        "technologies_used": "Kotlin, C#, React, Swift, TensorFlow",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 37,
+        "freelancer_id": 2,
+        "project_title": "Hospital Management System",
+        "project_description": "Quam iste suscipit possimus. Earum praesentium laboriosam quasi corrupti.",
+        "project_link": "http://purohit.info/",
+        "technologies_used": "React Native, CSS, PostgreSQL, HTML, Kubernetes",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 38,
+        "freelancer_id": 39,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Impedit voluptate nemo aliquid aperiam quo eligendi. Quaerat dicta eaque perferendis vitae. Doloremque ipsum a officiis sit.",
+        "project_link": "https://batta.com/",
+        "technologies_used": "Figma, MySQL, PostgreSQL, Node.js",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 39,
+        "freelancer_id": 43,
+        "project_title": "Banking Management System",
+        "project_description": "Facilis reprehenderit molestias fuga temporibus quas molestiae eum. Illum neque fuga voluptatem quisquam corporis.",
+        "project_link": "https://sankaran-chadha.org/",
+        "technologies_used": "PHP, Kubernetes, CSS, Python",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 40,
+        "freelancer_id": 30,
+        "project_title": "Online Learning Platform",
+        "project_description": "Ex facere iure quidem. Suscipit exercitationem ullam voluptatem.",
+        "project_link": "http://dutta.biz/",
+        "technologies_used": "Computer Vision, NLP, PHP, Kotlin, React",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 41,
+        "freelancer_id": 49,
+        "project_title": "Attendance Management System",
+        "project_description": "Sunt voluptatibus molestias maxime nemo ducimus. Optio cum dolorem quae ex blanditiis quasi.",
+        "project_link": "https://ramaswamy.biz/",
+        "technologies_used": "C#, PHP",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 42,
+        "freelancer_id": 41,
+        "project_title": "Face Recognition System",
+        "project_description": "Odit iste rerum tempora deleniti. Tempora voluptas reiciendis.",
+        "project_link": "https://www.mohan.biz/",
+        "technologies_used": "Computer Vision, React, CSS, Figma",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 43,
+        "freelancer_id": 32,
+        "project_title": "Portfolio Website",
+        "project_description": "Molestiae atque repellendus ad adipisci. Dignissimos repudiandae perspiciatis architecto.",
+        "project_link": "https://www.parmar-rau.com/",
+        "technologies_used": "React, Java, Machine Learning, Node.js, Adobe Photoshop",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 44,
+        "freelancer_id": 26,
+        "project_title": "Stock Price Prediction",
+        "project_description": "Exercitationem fugiat esse nulla ullam. Nihil perspiciatis voluptate libero expedita ducimus labore reiciendis. Quo in nesciunt sunt veniam placeat voluptatum. Aliquam laborum temporibus labore molestiae assumenda.",
+        "project_link": "http://nazareth-khurana.org/",
+        "technologies_used": "Kubernetes, Docker, Node.js, Computer Vision, C#",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 45,
+        "freelancer_id": 49,
+        "project_title": "CRM Dashboard",
+        "project_description": "Eum mollitia provident. Dolor illum ab consectetur sint quos vel. Architecto debitis eius natus reiciendis modi.",
+        "project_link": "http://dalal.com/",
+        "technologies_used": "Adobe Photoshop, Deep Learning",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 46,
+        "freelancer_id": 44,
+        "project_title": "Fitness Tracking App",
+        "project_description": "Sequi aliquam nobis incidunt placeat. Dicta laborum ab quod. Quo aliquam delectus excepturi.",
+        "project_link": "https://www.saxena.com/",
+        "technologies_used": "PyTorch, Figma",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 47,
+        "freelancer_id": 30,
+        "project_title": "Fitness Tracking App",
+        "project_description": "Qui veniam natus ipsa. Recusandae inventore provident tempore fuga molestiae.",
+        "project_link": "https://mallick.net/",
+        "technologies_used": "Swift, HTML, MySQL",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 48,
+        "freelancer_id": 4,
+        "project_title": "Travel Booking Portal",
+        "project_description": "Aperiam ea veniam facere. Magni doloribus unde consequuntur ad assumenda. Optio ipsum voluptatum fuga.",
+        "project_link": "https://goyal.biz/",
+        "technologies_used": "Kubernetes, MongoDB, Swift, Adobe Photoshop, MySQL",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 49,
+        "freelancer_id": 12,
+        "project_title": "Fitness Tracking App",
+        "project_description": "Aliquam dicta error quia hic fuga magni. Beatae pariatur nesciunt.",
+        "project_link": "http://nagarajan.info/",
+        "technologies_used": "TensorFlow, Kubernetes, Angular",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 50,
+        "freelancer_id": 25,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Optio laboriosam distinctio cupiditate mollitia. Molestiae rem corporis consectetur magni similique architecto maiores.",
+        "project_link": "http://www.sachdev.com/",
+        "technologies_used": "MySQL, Figma, Flutter, React Native",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 51,
+        "freelancer_id": 45,
+        "project_title": "Attendance Management System",
+        "project_description": "Illo quibusdam aliquam eum hic. Perferendis ut hic non sint.",
+        "project_link": "http://upadhyay.com/",
+        "technologies_used": "Flutter, C#, C++, Kotlin",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 52,
+        "freelancer_id": 9,
+        "project_title": "Portfolio Website",
+        "project_description": "Enim quo inventore adipisci architecto assumenda tempora. Quo aliquam eius eligendi. Esse modi eveniet est veniam maiores. Quidem saepe nihil nam placeat nobis.",
+        "project_link": "http://chand-suri.com/",
+        "technologies_used": "Machine Learning, Computer Vision, Figma, TensorFlow, MySQL",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 53,
+        "freelancer_id": 45,
+        "project_title": "Travel Booking Portal",
+        "project_description": "Nulla aperiam occaecati vel soluta nisi dolorem. Tenetur necessitatibus expedita esse repudiandae maxime. Eius nisi pariatur deleniti nostrum ratione.",
+        "project_link": "https://www.pathak.info/",
+        "technologies_used": "Computer Vision, TensorFlow, Adobe Photoshop, PostgreSQL",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 54,
+        "freelancer_id": 14,
+        "project_title": "Stock Price Prediction",
+        "project_description": "Cupiditate quam soluta odit dignissimos ratione rerum. Suscipit repellat fugiat hic. Ut itaque exercitationem ducimus asperiores. Vitae repellat voluptates a.",
+        "project_link": "http://sha-malhotra.net/",
+        "technologies_used": "Machine Learning, Computer Vision, C++",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 55,
+        "freelancer_id": 23,
+        "project_title": "Portfolio Website",
+        "project_description": "Dicta amet incidunt voluptatem nisi labore. Est consequuntur commodi quis voluptatibus aliquam. Eius molestias eaque quos.",
+        "project_link": "https://www.bhasin.com/",
+        "technologies_used": "MySQL, PostgreSQL, Computer Vision",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 56,
+        "freelancer_id": 21,
+        "project_title": "Hospital Management System",
+        "project_description": "Quaerat eligendi dolores dolore nobis quibusdam unde explicabo. Corrupti mollitia et dolore rem. Dicta nulla veritatis at qui voluptatem.",
+        "project_link": "https://chandran.biz/",
+        "technologies_used": "PostgreSQL, Swift, MongoDB, NLP",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 57,
+        "freelancer_id": 27,
+        "project_title": "Travel Booking Portal",
+        "project_description": "Itaque cumque cupiditate dolore autem. Perferendis ipsa similique sed ipsum.",
+        "project_link": "http://www.rege.info/",
+        "technologies_used": "Figma, AWS, React Native, Docker",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 58,
+        "freelancer_id": 34,
+        "project_title": "Hospital Management System",
+        "project_description": "Qui fugit nostrum fugit. Quisquam dignissimos perferendis ipsa soluta exercitationem accusantium. Nulla saepe non fuga provident nobis praesentium.",
+        "project_link": "https://www.johal-kamdar.com/",
+        "technologies_used": "Flutter, Angular",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 59,
+        "freelancer_id": 43,
+        "project_title": "E-Commerce Website",
+        "project_description": "Earum quaerat tempore fugit soluta vero. Doloribus possimus iste reiciendis harum exercitationem fugit. Ipsa ipsum incidunt ipsa expedita eaque tenetur.",
+        "project_link": "https://ganguly.org/",
+        "technologies_used": "Java, PyTorch, Docker",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 60,
+        "freelancer_id": 19,
+        "project_title": "Expense Tracker",
+        "project_description": "Minus deserunt alias fugit aliquid dolorem provident culpa. Possimus amet aspernatur ut iste eos similique eius. Dolorem est maxime doloremque.",
+        "project_link": "http://www.goda.biz/",
+        "technologies_used": "Kubernetes, CSS, Computer Vision",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 61,
+        "freelancer_id": 19,
+        "project_title": "Stock Price Prediction",
+        "project_description": "Accusantium vero nobis aspernatur quo. Repellendus debitis commodi iure quis.",
+        "project_link": "http://www.grover.com/",
+        "technologies_used": "PHP, Kubernetes",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 62,
+        "freelancer_id": 7,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Maiores accusantium magnam animi consequatur. Iusto sed doloribus.",
+        "project_link": "https://korpal-sha.com/",
+        "technologies_used": "TensorFlow, Deep Learning, PostgreSQL",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 63,
+        "freelancer_id": 16,
+        "project_title": "Invoice Management System",
+        "project_description": "Cum non aliquam voluptatem consequatur. Itaque reiciendis perspiciatis hic molestiae.",
+        "project_link": "https://venkatesh.com/",
+        "technologies_used": "Computer Vision, NLP, CSS, Adobe Photoshop",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 64,
+        "freelancer_id": 25,
+        "project_title": "CRM Dashboard",
+        "project_description": "Cumque similique commodi alias asperiores voluptatum. Blanditiis temporibus fugit error ad. Dicta accusamus ipsa odit corporis sint ratione.",
+        "project_link": "http://konda-dhar.com/",
+        "technologies_used": "PostgreSQL, CSS, HTML, TensorFlow",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 65,
+        "freelancer_id": 13,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Ducimus id quae fuga dignissimos consectetur. Doloribus corporis odit.",
+        "project_link": "http://bera-palla.info/",
+        "technologies_used": "Kubernetes, Python, Adobe Photoshop, Deep Learning, Computer Vision",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 66,
+        "freelancer_id": 42,
+        "project_title": "Hotel Booking Website",
+        "project_description": "Aspernatur eos reprehenderit mollitia aliquam voluptatem. Architecto ex est magni accusamus aut quia. Earum ad dolor maxime ad illo reiciendis.",
+        "project_link": "https://narain.com/",
+        "technologies_used": "PyTorch, TensorFlow, Node.js",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 67,
+        "freelancer_id": 29,
+        "project_title": "Weather Forecast App",
+        "project_description": "Commodi ipsa laborum quis alias quod quas necessitatibus. Voluptatum corrupti repudiandae ex. Quasi odio corporis quis deserunt nulla.",
+        "project_link": "https://barman.com/",
+        "technologies_used": "Vue.js, TensorFlow",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 68,
+        "freelancer_id": 8,
+        "project_title": "Food Delivery Application",
+        "project_description": "Deserunt necessitatibus in repudiandae.",
+        "project_link": "http://kumer.com/",
+        "technologies_used": "React Native, Java",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 69,
+        "freelancer_id": 17,
+        "project_title": "Portfolio Website",
+        "project_description": "Eaque laboriosam architecto. Totam cumque perferendis beatae pariatur repellat exercitationem.",
+        "project_link": "https://narayanan-narain.net/",
+        "technologies_used": "MongoDB, AWS, Java",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 70,
+        "freelancer_id": 22,
+        "project_title": "Banking Management System",
+        "project_description": "Maxime eius nisi tempore dolorem ad laboriosam eveniet. Error voluptate voluptatibus amet nihil reiciendis ducimus.",
+        "project_link": "http://www.kothari.com/",
+        "technologies_used": "CSS, Angular, Adobe Photoshop",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 71,
+        "freelancer_id": 39,
+        "project_title": "E-Commerce Website",
+        "project_description": "Magni impedit id necessitatibus error doloribus numquam. Quod unde animi illo.",
+        "project_link": "https://www.solanki-balasubramanian.com/",
+        "technologies_used": "Swift, Docker, MongoDB, PostgreSQL",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 72,
+        "freelancer_id": 5,
+        "project_title": "Online Learning Platform",
+        "project_description": "Est laborum voluptatum unde. Nihil illo sed enim nostrum cumque. Nisi nisi sequi aut.",
+        "project_link": "http://www.zachariah.info/",
+        "technologies_used": "Vue.js, MySQL, JavaScript",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 73,
+        "freelancer_id": 33,
+        "project_title": "Weather Forecast App",
+        "project_description": "Voluptatibus a debitis consequatur. Perspiciatis ullam praesentium pariatur assumenda cumque.",
+        "project_link": "https://barad.com/",
+        "technologies_used": "PostgreSQL, Flutter, JavaScript, PHP, Python",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 74,
+        "freelancer_id": 43,
+        "project_title": "Online Learning Platform",
+        "project_description": "A ullam ratione tempore repudiandae laudantium eaque eos.",
+        "project_link": "http://bhattacharyya.org/",
+        "technologies_used": "PHP, C++, Node.js, PyTorch",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 75,
+        "freelancer_id": 34,
+        "project_title": "AI Resume Analyzer",
+        "project_description": "Officia praesentium atque non. Adipisci sequi pariatur possimus repellat.",
+        "project_link": "https://rattan-sahota.com/",
+        "technologies_used": "React, NLP",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 76,
+        "freelancer_id": 29,
+        "project_title": "Attendance Management System",
+        "project_description": "Distinctio itaque praesentium alias animi soluta. Autem ipsum corrupti asperiores.",
+        "project_link": "https://khare.biz/",
+        "technologies_used": "CSS, NLP, Figma",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 77,
+        "freelancer_id": 25,
+        "project_title": "Hospital Management System",
+        "project_description": "Quas esse quae tempora omnis facilis hic. Architecto adipisci sequi dolorum delectus libero.",
+        "project_link": "https://deol-narain.biz/",
+        "technologies_used": "Java, PostgreSQL, TensorFlow, C++, HTML",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 78,
+        "freelancer_id": 50,
+        "project_title": "Hotel Booking Website",
+        "project_description": "Sit delectus sit cum dolorum at soluta. Corporis sunt dolores nobis vero tenetur. In quo occaecati quae.",
+        "project_link": "https://cheema.net/",
+        "technologies_used": "Swift, CSS, C++, Figma, Deep Learning",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 79,
+        "freelancer_id": 21,
+        "project_title": "Invoice Management System",
+        "project_description": "Corporis perspiciatis similique quia earum. Suscipit voluptatibus nostrum nostrum ipsa veniam.",
+        "project_link": "http://mannan.com/",
+        "technologies_used": "React, Vue.js",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 80,
+        "freelancer_id": 35,
+        "project_title": "Travel Booking Portal",
+        "project_description": "Accusantium nihil vitae aperiam repudiandae impedit. Totam non doloremque et nihil ipsum error.",
+        "project_link": "http://www.kumar.com/",
+        "technologies_used": "Deep Learning, JavaScript",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 81,
+        "freelancer_id": 43,
+        "project_title": "Stock Price Prediction",
+        "project_description": "Aliquam veritatis ipsum id inventore. Rem earum repellendus molestias. Accusamus sit quasi quisquam ratione quisquam.",
+        "project_link": "http://kala.com/",
+        "technologies_used": "Kubernetes, React, Node.js, PostgreSQL, Computer Vision",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 82,
+        "freelancer_id": 50,
+        "project_title": "CRM Dashboard",
+        "project_description": "Natus eveniet molestias dicta placeat aspernatur. Veniam accusantium consectetur quibusdam ducimus.",
+        "project_link": "https://edwin-sandhu.com/",
+        "technologies_used": "TensorFlow, NLP",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 83,
+        "freelancer_id": 2,
+        "project_title": "Banking Management System",
+        "project_description": "Atque ut est molestiae molestias architecto. Sit sequi a dolores.",
+        "project_link": "https://www.seth.com/",
+        "technologies_used": "CSS, JavaScript, Vue.js, Docker",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 84,
+        "freelancer_id": 36,
+        "project_title": "Restaurant Management System",
+        "project_description": "Iure commodi pariatur eius assumenda ratione explicabo. Rem molestias dolorum accusantium totam rem. Voluptatibus cum exercitationem minima.",
+        "project_link": "http://panchal.biz/",
+        "technologies_used": "Adobe Photoshop, Java, React Native",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 85,
+        "freelancer_id": 29,
+        "project_title": "Food Delivery Application",
+        "project_description": "Rem quod illo cumque. Odit quo quibusdam architecto voluptatibus dolorem omnis totam. Nam itaque eum fuga tempore alias deleniti.",
+        "project_link": "https://www.pradhan.com/",
+        "technologies_used": "C#, HTML, Flutter, NLP, React",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 86,
+        "freelancer_id": 1,
+        "project_title": "Movie Recommendation System",
+        "project_description": "Assumenda sapiente nisi natus blanditiis consequatur laudantium. Quas exercitationem numquam adipisci saepe et est. Eos similique amet error vitae consequatur.",
+        "project_link": "https://mand.biz/",
+        "technologies_used": "PyTorch, TensorFlow",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 87,
+        "freelancer_id": 3,
+        "project_title": "Restaurant Management System",
+        "project_description": "Facilis libero qui illum ad eligendi delectus. Sit ut nobis sed.",
+        "project_link": "https://www.lalla.com/",
+        "technologies_used": "Adobe Photoshop, MySQL, React, C++",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 88,
+        "freelancer_id": 44,
+        "project_title": "Face Recognition System",
+        "project_description": "Nemo neque aspernatur aliquid. Sapiente mollitia molestiae similique repellat.",
+        "project_link": "https://raval.com/",
+        "technologies_used": "C++, PyTorch",
+        "completion_year": 2023
+    },
+    {
+        "portfolio_id": 89,
+        "freelancer_id": 25,
+        "project_title": "Food Delivery Application",
+        "project_description": "Omnis eaque amet architecto. A tempora aliquam repellat illo autem culpa velit. Aspernatur cumque officiis necessitatibus sint.",
+        "project_link": "http://date.net/",
+        "technologies_used": "Swift, Vue.js",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 90,
+        "freelancer_id": 15,
+        "project_title": "Portfolio Website",
+        "project_description": "A minima earum recusandae quod deleniti. Dolores inventore nostrum harum repudiandae eos consequatur.",
+        "project_link": "https://krish-dash.biz/",
+        "technologies_used": "Docker, AWS, PostgreSQL, C++, Deep Learning",
+        "completion_year": 2021
+    },
+    {
+        "portfolio_id": 91,
+        "freelancer_id": 20,
+        "project_title": "Hotel Booking Website",
+        "project_description": "Libero voluptate illo deleniti ducimus consectetur delectus odit. Voluptas dolorum quae doloremque.",
+        "project_link": "http://www.bora.com/",
+        "technologies_used": "PostgreSQL, AWS",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 92,
+        "freelancer_id": 10,
+        "project_title": "Hospital Management System",
+        "project_description": "Nemo officiis quaerat rerum. Impedit exercitationem ipsum.",
+        "project_link": "http://www.nair-roy.biz/",
+        "technologies_used": "HTML, MongoDB",
+        "completion_year": 2024
+    },
+    {
+        "portfolio_id": 93,
+        "freelancer_id": 26,
+        "project_title": "Travel Booking Portal",
+        "project_description": "Ipsam dicta odio dignissimos explicabo. Laudantium veniam ipsa dolorum inventore. Aperiam suscipit animi itaque.",
+        "project_link": "https://www.choudhry-mani.com/",
+        "technologies_used": "C++, Node.js",
+        "completion_year": 2025
+    },
+    {
+        "portfolio_id": 94,
+        "freelancer_id": 48,
+        "project_title": "Hotel Booking Website",
+        "project_description": "Debitis quisquam labore quis aperiam. Expedita officia ipsum porro eius labore hic.",
+        "project_link": "http://sarma.com/",
+        "technologies_used": "React Native, Figma, Deep Learning",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 95,
+        "freelancer_id": 33,
+        "project_title": "Portfolio Website",
+        "project_description": "Fugit voluptates mollitia odit corporis eaque fuga. Porro earum omnis reiciendis quia.",
+        "project_link": "http://www.chhabra.com/",
+        "technologies_used": "Vue.js, Python, Machine Learning",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 96,
+        "freelancer_id": 17,
+        "project_title": "Stock Price Prediction",
+        "project_description": "Sequi nemo unde ullam occaecati voluptate a. Eveniet porro mollitia.",
+        "project_link": "https://www.hari-grover.com/",
+        "technologies_used": "Vue.js, NLP",
+        "completion_year": 2026
+    },
+    {
+        "portfolio_id": 97,
+        "freelancer_id": 37,
+        "project_title": "E-Commerce Website",
+        "project_description": "Dolorum rem nesciunt occaecati pariatur vero. Natus atque iusto deserunt doloribus aliquid excepturi.",
+        "project_link": "https://www.nath.biz/",
+        "technologies_used": "Deep Learning, PostgreSQL, JavaScript, C++, NLP",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 98,
+        "freelancer_id": 17,
+        "project_title": "Hospital Management System",
+        "project_description": "Porro aut tempore. Illum aliquam iusto modi qui. Perspiciatis voluptate ipsam consequatur.",
+        "project_link": "http://www.chatterjee-bansal.com/",
+        "technologies_used": "TensorFlow, MongoDB, Swift",
+        "completion_year": 2022
+    },
+    {
+        "portfolio_id": 99,
+        "freelancer_id": 23,
+        "project_title": "Portfolio Website",
+        "project_description": "Illum voluptatibus officia suscipit tempora atque unde nostrum.",
+        "project_link": "http://yadav.info/",
+        "technologies_used": "React, C++, Machine Learning",
+        "completion_year": 2020
+    },
+    {
+        "portfolio_id": 100,
+        "freelancer_id": 13,
+        "project_title": "Online Learning Platform",
+        "project_description": "Cumque quidem quas unde laudantium voluptatibus recusandae. Aut magnam dolorem nemo a possimus.",
+        "project_link": "https://gala.org/",
+        "technologies_used": "Kotlin, C#, Machine Learning, NLP, C++",
+        "completion_year": 2025
+    }
+]

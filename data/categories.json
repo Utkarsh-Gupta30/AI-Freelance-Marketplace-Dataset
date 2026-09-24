@@ -1,0 +1,52 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Web Development",
+        "description": "Projects related to Web Development."
+    },
+    {
+        "category_id": 2,
+        "category_name": "Mobile Development",
+        "description": "Projects related to Mobile Development."
+    },
+    {
+        "category_id": 3,
+        "category_name": "AI & Machine Learning",
+        "description": "Projects related to AI & Machine Learning."
+    },
+    {
+        "category_id": 4,
+        "category_name": "Data Science",
+        "description": "Projects related to Data Science."
+    },
+    {
+        "category_id": 5,
+        "category_name": "UI/UX Design",
+        "description": "Projects related to UI/UX Design."
+    },
+    {
+        "category_id": 6,
+        "category_name": "Graphic Design",
+        "description": "Projects related to Graphic Design."
+    },
+    {
+        "category_id": 7,
+        "category_name": "Cloud Computing",
+        "description": "Projects related to Cloud Computing."
+    },
+    {
+        "category_id": 8,
+        "category_name": "Cyber Security",
+        "description": "Projects related to Cyber Security."
+    },
+    {
+        "category_id": 9,
+        "category_name": "Blockchain",
+        "description": "Projects related to Blockchain."
+    },
+    {
+        "category_id": 10,
+        "category_name": "DevOps",
+        "description": "Projects related to DevOps."
+    }
+]

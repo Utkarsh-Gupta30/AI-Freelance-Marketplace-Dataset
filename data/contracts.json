@@ -1,0 +1,442 @@
+[
+    {
+        "contract_id": 1,
+        "proposal_id": 215,
+        "start_date": "2026-04-07",
+        "end_date": "2026-07-04",
+        "contract_amount": 91044,
+        "proposal_status": "Submitted",
+        "created_at": "2026-02-23 14:25:01",
+        "updated_at": "2026-07-18 09:10:36"
+    },
+    {
+        "contract_id": 2,
+        "proposal_id": 221,
+        "start_date": "2026-06-13",
+        "end_date": "2026-08-31",
+        "contract_amount": 154380,
+        "proposal_status": "Accepted",
+        "created_at": "2026-05-17 23:58:30",
+        "updated_at": "2026-07-10 13:44:06"
+    },
+    {
+        "contract_id": 3,
+        "proposal_id": 86,
+        "start_date": "2026-06-16",
+        "end_date": "2026-07-07",
+        "contract_amount": 270149,
+        "proposal_status": "Submitted",
+        "created_at": "2026-03-27 19:44:54",
+        "updated_at": "2026-07-04 15:07:21"
+    },
+    {
+        "contract_id": 4,
+        "proposal_id": 45,
+        "start_date": "2026-04-04",
+        "end_date": "2026-07-30",
+        "contract_amount": 134767,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-07-23 02:45:10",
+        "updated_at": "2026-07-15 04:39:27"
+    },
+    {
+        "contract_id": 5,
+        "proposal_id": 114,
+        "start_date": "2026-05-23",
+        "end_date": "2026-06-12",
+        "contract_amount": 85885,
+        "proposal_status": "Withdrawn",
+        "created_at": "2026-05-28 01:27:30",
+        "updated_at": "2026-07-28 18:52:06"
+    },
+    {
+        "contract_id": 6,
+        "proposal_id": 143,
+        "start_date": "2026-02-18",
+        "end_date": "2026-03-13",
+        "contract_amount": 135144,
+        "proposal_status": "Rejected",
+        "created_at": "2026-06-19 02:02:37",
+        "updated_at": "2026-07-01 01:08:55"
+    },
+    {
+        "contract_id": 7,
+        "proposal_id": 72,
+        "start_date": "2026-02-12",
+        "end_date": "2026-04-04",
+        "contract_amount": 193355,
+        "proposal_status": "Accepted",
+        "created_at": "2026-06-22 07:15:36",
+        "updated_at": "2026-07-16 01:59:55"
+    },
+    {
+        "contract_id": 8,
+        "proposal_id": 150,
+        "start_date": "2026-04-26",
+        "end_date": "2026-06-19",
+        "contract_amount": 65853,
+        "proposal_status": "Submitted",
+        "created_at": "2026-07-25 16:29:33",
+        "updated_at": "2026-07-18 16:48:59"
+    },
+    {
+        "contract_id": 9,
+        "proposal_id": 79,
+        "start_date": "2026-05-31",
+        "end_date": "2026-08-24",
+        "contract_amount": 266777,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-04-27 04:26:50",
+        "updated_at": "2026-07-20 00:03:31"
+    },
+    {
+        "contract_id": 10,
+        "proposal_id": 204,
+        "start_date": "2026-03-26",
+        "end_date": "2026-05-27",
+        "contract_amount": 163264,
+        "proposal_status": "Submitted",
+        "created_at": "2026-06-25 23:23:41",
+        "updated_at": "2026-07-22 00:18:42"
+    },
+    {
+        "contract_id": 11,
+        "proposal_id": 147,
+        "start_date": "2026-06-13",
+        "end_date": "2026-09-08",
+        "contract_amount": 120884,
+        "proposal_status": "Accepted",
+        "created_at": "2026-02-24 23:45:01",
+        "updated_at": "2026-07-07 18:10:43"
+    },
+    {
+        "contract_id": 12,
+        "proposal_id": 76,
+        "start_date": "2026-06-18",
+        "end_date": "2026-10-05",
+        "contract_amount": 81505,
+        "proposal_status": "Accepted",
+        "created_at": "2026-06-27 14:03:19",
+        "updated_at": "2026-07-27 11:19:41"
+    },
+    {
+        "contract_id": 13,
+        "proposal_id": 11,
+        "start_date": "2026-07-25",
+        "end_date": "2026-10-07",
+        "contract_amount": 269352,
+        "proposal_status": "Submitted",
+        "created_at": "2026-07-08 02:24:51",
+        "updated_at": "2026-07-23 13:54:24"
+    },
+    {
+        "contract_id": 14,
+        "proposal_id": 25,
+        "start_date": "2026-02-14",
+        "end_date": "2026-05-03",
+        "contract_amount": 243539,
+        "proposal_status": "Withdrawn",
+        "created_at": "2026-02-28 10:00:33",
+        "updated_at": "2026-06-29 05:30:42"
+    },
+    {
+        "contract_id": 15,
+        "proposal_id": 162,
+        "start_date": "2026-05-24",
+        "end_date": "2026-09-15",
+        "contract_amount": 103020,
+        "proposal_status": "Submitted",
+        "created_at": "2026-05-25 00:14:54",
+        "updated_at": "2026-07-16 19:22:38"
+    },
+    {
+        "contract_id": 16,
+        "proposal_id": 107,
+        "start_date": "2026-06-08",
+        "end_date": "2026-08-31",
+        "contract_amount": 46118,
+        "proposal_status": "Accepted",
+        "created_at": "2026-06-04 22:53:18",
+        "updated_at": "2026-07-20 20:50:25"
+    },
+    {
+        "contract_id": 17,
+        "proposal_id": 120,
+        "start_date": "2026-04-12",
+        "end_date": "2026-05-28",
+        "contract_amount": 206975,
+        "proposal_status": "Submitted",
+        "created_at": "2026-04-02 01:47:13",
+        "updated_at": "2026-07-20 03:26:02"
+    },
+    {
+        "contract_id": 18,
+        "proposal_id": 130,
+        "start_date": "2026-03-04",
+        "end_date": "2026-05-10",
+        "contract_amount": 76368,
+        "proposal_status": "Submitted",
+        "created_at": "2026-05-08 15:00:14",
+        "updated_at": "2026-07-27 09:36:24"
+    },
+    {
+        "contract_id": 19,
+        "proposal_id": 123,
+        "start_date": "2026-03-24",
+        "end_date": "2026-06-16",
+        "contract_amount": 145990,
+        "proposal_status": "Submitted",
+        "created_at": "2026-06-28 22:54:49",
+        "updated_at": "2026-07-03 13:20:17"
+    },
+    {
+        "contract_id": 20,
+        "proposal_id": 9,
+        "start_date": "2026-03-15",
+        "end_date": "2026-06-26",
+        "contract_amount": 61256,
+        "proposal_status": "Rejected",
+        "created_at": "2026-03-28 14:11:15",
+        "updated_at": "2026-07-22 19:10:17"
+    },
+    {
+        "contract_id": 21,
+        "proposal_id": 4,
+        "start_date": "2026-04-05",
+        "end_date": "2026-06-01",
+        "contract_amount": 109572,
+        "proposal_status": "Submitted",
+        "created_at": "2026-02-08 05:28:52",
+        "updated_at": "2026-07-26 05:42:13"
+    },
+    {
+        "contract_id": 22,
+        "proposal_id": 228,
+        "start_date": "2026-05-09",
+        "end_date": "2026-08-16",
+        "contract_amount": 213653,
+        "proposal_status": "Submitted",
+        "created_at": "2026-07-23 02:10:18",
+        "updated_at": "2026-07-24 08:20:16"
+    },
+    {
+        "contract_id": 23,
+        "proposal_id": 38,
+        "start_date": "2026-05-21",
+        "end_date": "2026-09-07",
+        "contract_amount": 252501,
+        "proposal_status": "Accepted",
+        "created_at": "2026-05-08 12:57:24",
+        "updated_at": "2026-07-19 13:34:20"
+    },
+    {
+        "contract_id": 24,
+        "proposal_id": 148,
+        "start_date": "2026-03-25",
+        "end_date": "2026-04-22",
+        "contract_amount": 267388,
+        "proposal_status": "Submitted",
+        "created_at": "2026-04-02 12:48:01",
+        "updated_at": "2026-07-17 11:54:51"
+    },
+    {
+        "contract_id": 25,
+        "proposal_id": 240,
+        "start_date": "2026-03-31",
+        "end_date": "2026-05-15",
+        "contract_amount": 180642,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-06-25 21:43:04",
+        "updated_at": "2026-07-07 12:18:45"
+    },
+    {
+        "contract_id": 26,
+        "proposal_id": 128,
+        "start_date": "2026-02-25",
+        "end_date": "2026-03-19",
+        "contract_amount": 8548,
+        "proposal_status": "Withdrawn",
+        "created_at": "2026-02-06 23:52:17",
+        "updated_at": "2026-07-09 01:54:13"
+    },
+    {
+        "contract_id": 27,
+        "proposal_id": 115,
+        "start_date": "2026-04-22",
+        "end_date": "2026-05-25",
+        "contract_amount": 52983,
+        "proposal_status": "Accepted",
+        "created_at": "2026-05-10 15:47:14",
+        "updated_at": "2026-07-12 08:38:06"
+    },
+    {
+        "contract_id": 28,
+        "proposal_id": 178,
+        "start_date": "2026-05-20",
+        "end_date": "2026-06-15",
+        "contract_amount": 21179,
+        "proposal_status": "Submitted",
+        "created_at": "2026-07-19 15:36:01",
+        "updated_at": "2026-07-28 17:31:34"
+    },
+    {
+        "contract_id": 29,
+        "proposal_id": 133,
+        "start_date": "2026-03-31",
+        "end_date": "2026-05-14",
+        "contract_amount": 175858,
+        "proposal_status": "Rejected",
+        "created_at": "2026-02-18 03:59:26",
+        "updated_at": "2026-07-15 17:07:48"
+    },
+    {
+        "contract_id": 30,
+        "proposal_id": 41,
+        "start_date": "2026-03-25",
+        "end_date": "2026-06-14",
+        "contract_amount": 287748,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-03-03 00:09:36",
+        "updated_at": "2026-07-04 14:33:54"
+    },
+    {
+        "contract_id": 31,
+        "proposal_id": 23,
+        "start_date": "2026-03-25",
+        "end_date": "2026-05-26",
+        "contract_amount": 168042,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-03-24 00:40:10",
+        "updated_at": "2026-07-22 11:24:53"
+    },
+    {
+        "contract_id": 32,
+        "proposal_id": 179,
+        "start_date": "2026-04-24",
+        "end_date": "2026-08-12",
+        "contract_amount": 122882,
+        "proposal_status": "Submitted",
+        "created_at": "2026-03-14 06:39:00",
+        "updated_at": "2026-07-07 01:42:57"
+    },
+    {
+        "contract_id": 33,
+        "proposal_id": 53,
+        "start_date": "2026-03-26",
+        "end_date": "2026-04-22",
+        "contract_amount": 173120,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-07-27 01:12:09",
+        "updated_at": "2026-07-11 10:41:59"
+    },
+    {
+        "contract_id": 34,
+        "proposal_id": 212,
+        "start_date": "2026-05-26",
+        "end_date": "2026-08-30",
+        "contract_amount": 59107,
+        "proposal_status": "Rejected",
+        "created_at": "2026-06-25 03:51:43",
+        "updated_at": "2026-07-04 00:04:52"
+    },
+    {
+        "contract_id": 35,
+        "proposal_id": 13,
+        "start_date": "2026-07-27",
+        "end_date": "2026-08-20",
+        "contract_amount": 102621,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-03-15 20:07:29",
+        "updated_at": "2026-07-12 09:04:08"
+    },
+    {
+        "contract_id": 36,
+        "proposal_id": 131,
+        "start_date": "2026-02-25",
+        "end_date": "2026-03-19",
+        "contract_amount": 110304,
+        "proposal_status": "Shortlisted",
+        "created_at": "2026-02-17 11:43:25",
+        "updated_at": "2026-07-08 21:25:57"
+    },
+    {
+        "contract_id": 37,
+        "proposal_id": 166,
+        "start_date": "2026-05-16",
+        "end_date": "2026-06-16",
+        "contract_amount": 95454,
+        "proposal_status": "Submitted",
+        "created_at": "2026-07-11 17:29:15",
+        "updated_at": "2026-07-23 13:07:09"
+    },
+    {
+        "contract_id": 38,
+        "proposal_id": 154,
+        "start_date": "2026-06-24",
+        "end_date": "2026-08-11",
+        "contract_amount": 65337,
+        "proposal_status": "Rejected",
+        "created_at": "2026-03-03 15:21:08",
+        "updated_at": "2026-06-30 04:18:29"
+    },
+    {
+        "contract_id": 39,
+        "proposal_id": 165,
+        "start_date": "2026-05-25",
+        "end_date": "2026-09-19",
+        "contract_amount": 64890,
+        "proposal_status": "Submitted",
+        "created_at": "2026-07-24 02:35:25",
+        "updated_at": "2026-06-30 18:44:57"
+    },
+    {
+        "contract_id": 40,
+        "proposal_id": 238,
+        "start_date": "2026-07-20",
+        "end_date": "2026-11-06",
+        "contract_amount": 279205,
+        "proposal_status": "Submitted",
+        "created_at": "2026-05-14 16:13:55",
+        "updated_at": "2026-07-24 23:09:37"
+    },
+    {
+        "contract_id": 41,
+        "proposal_id": 192,
+        "start_date": "2026-07-03",
+        "end_date": "2026-09-13",
+        "contract_amount": 135902,
+        "proposal_status": "Submitted",
+        "created_at": "2026-03-08 17:49:37",
+        "updated_at": "2026-06-29 04:12:30"
+    },
+    {
+        "contract_id": 42,
+        "proposal_id": 113,
+        "start_date": "2026-05-03",
+        "end_date": "2026-05-27",
+        "contract_amount": 43538,
+        "proposal_status": "Rejected",
+        "created_at": "2026-07-10 12:11:42",
+        "updated_at": "2026-06-30 02:28:32"
+    },
+    {
+        "contract_id": 43,
+        "proposal_id": 20,
+        "start_date": "2026-04-10",
+        "end_date": "2026-05-12",
+        "contract_amount": 10995,
+        "proposal_status": "Accepted",
+        "created_at": "2026-03-10 07:08:54",
+        "updated_at": "2026-07-12 12:48:27"
+    },
+    {
+        "contract_id": 44,
+        "proposal_id": 173,
+        "start_date": "2026-05-19",
+        "end_date": "2026-08-16",
+        "contract_amount": 78555,
+        "proposal_status": "Submitted",
+        "created_at": "2026-04-22 16:05:20",
+        "updated_at": "2026-07-20 10:42:04"
+    }
+]
